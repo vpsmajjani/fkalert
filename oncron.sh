@@ -1,5 +1,9 @@
 echo "started at `date`"
 docker exec flipkart sh /home/manish/puppeteer-scraper/flipkart_urls/products/executeshfiles.sh
+cd /workspaces/fkalert
+git add .
+git commit -m "added by server"
+git push
 echo "ended at `date`"
 #gh codespace list
 #echo "stopping 11"
