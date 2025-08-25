@@ -2,6 +2,7 @@ echo "started at `date`"
 #docker exec flipkart sh /home/manish/puppeteer-scraper/flipkart_urls/products/executeshfiles.sh
 cd /workspaces/fkalert
 pwd
+whoami
 git add .
 git commit -m "added by server"
 git push
