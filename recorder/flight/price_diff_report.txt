@@ -1,0 +1,1 @@
+6E-5011: Price changed: Old=6011, New=2011, Change=-4000

@@ -1,0 +1,9 @@
+#run this command
+sh sc1v1.sh 'url'
+it will create folder in products, there you can see details
+allprices.txt will be recorded with all product in single file
+
+i am changing one file areal.sh to areal.shor04june
+this areal.sh was with while loop, but on restart while loop was getting killed, so added in crontab or script to execute
+
+when you are running bulk, you might need to change to old name

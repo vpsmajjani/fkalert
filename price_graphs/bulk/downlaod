@@ -1,0 +1,1 @@
+docker cp flipkart_and_flights:/home/manish/puppeteer-scraper/flipkart_urls/bulkproduct/products/product_prices.db .

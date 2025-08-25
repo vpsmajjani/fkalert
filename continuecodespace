@@ -1,0 +1,19 @@
+# unlimited
+while true; do
+
+gh codespace ssh --codespace upgraded-bassoon-q5xjgqrx99r2g54 -- -t df -h
+sleep 20
+done;
+
+
+#1
+gh codespace ssh --codespace upgraded-bassoon-q5xjgqrx99r2g54 -- -t df -h
+
+timeout 30 watch -n 3 -t -x gh codespace ssh --codespace upgraded-bassoon-q5xjgqrx99r2g54 -- -t uptime
+
+#2
+for i in {1..12}
+do
+gh codespace ssh --codespace upgraded-bassoon-q5xjgqrx99r2g54 -- -t uptime
+    sleep 300  # 300 seconds = 5 minutes
+done

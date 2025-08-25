@@ -1,0 +1,1 @@
+aws s3 sync /home/manish/puppeteer-scraper/flipkart_urls s3://mujostorage

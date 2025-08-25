@@ -1,0 +1,7 @@
+#apt update && apt install -y python3-venv
+#cd /home/manish/puppeteer-scraper/flipkart_urls/products/
+cd /home/manish/puppeteer-scraper/flipkart_urls/bulkproduct/products/
+python3 -m venv /home/manish/puppeteer-scraper/.venv
+source /home/manish/puppeteer-scraper/.venv/bin/activate
+# 349  pip install streamlit
+streamlit run price_graph.py --server.port 8503 --server.address 0.0.0.0

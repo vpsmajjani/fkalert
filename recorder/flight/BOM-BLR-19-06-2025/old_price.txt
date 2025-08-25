@@ -1,0 +1,2 @@
+Airline|Flight No.|Departure|Duration|Arrival|Base Fare|Tax 1|Tax 2
+₹3,759|₹29,159|₹3,949|₹369|₹3,999|₹375|₹3,999|₹375

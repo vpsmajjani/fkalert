@@ -1,0 +1,10 @@
+cd /home/manish/puppeteer-scraper/flipkart_urls/recorder/flight/gr/BLR-BOM-25-04-2025
+sh /home/manish/puppeteer-scraper/flipkart_urls/recorder/flight/gr/BLR-BOM-25-04-2025/runme.sh
+cd /home/manish/puppeteer-scraper/flipkart_urls/recorder/flight/gr/BLR-BOM-25-04-2025
+sh /home/manish/puppeteer-scraper/flipkart_urls/recorder/flight/gr/BLR-BOM-25-04-2025/runme.sh
+cd /home/manish/puppeteer-scraper/flipkart_urls/recorder/flight/gr/BLR-BOM-25-04-2025
+sh /home/manish/puppeteer-scraper/flipkart_urls/recorder/flight/gr/BLR-BOM-25-04-2025/runme.sh
+cd /home/manish/puppeteer-scraper/flipkart_urls/recorder/flight/gr/BLR-BOM-25-04-2025
+sh /home/manish/puppeteer-scraper/flipkart_urls/recorder/flight/gr/BLR-BOM-25-04-2025/runme.sh
+cd /home/manish/puppeteer-scraper/flipkart_urls/recorder/flight/gr/BLR-BOM-25-04-2025
+sh /home/manish/puppeteer-scraper/flipkart_urls/recorder/flight/gr/BLR-BOM-25-04-2025/runme.sh

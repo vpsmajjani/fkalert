@@ -1,0 +1,25 @@
+while true; do
+file=`ls *.txt`
+  # Get the last price from fan (excluding the last line using `head -n -1`)
+  last_price=$(cat $file | tail -1)
+
+  # Get the current price by running other.js and extracting the price using grep
+  current_price=$(node link.js 'https://www.flipkart.com/crompton-energion-hyperjet-5-star-1200-mm-3-blade-ceiling-fan/p/itm415cef71fa427?pid=FANGQFKMH2UTGC4Z' | grep -oP '"price":\s*\K\d+' | head -n 1)
+
+  # Compare the last price from fan with the current price
+  if [ "$last_price" -eq "$current_price" ]; then
+    echo "Status is the same"
+  else
+current_date=$(date "+%Y-%m-%d %H:%M:%S")
+        echo "price changed"
+echo "$current_date">>$file
+    # Append the new price to fan
+    echo "$current_price" >> $file
+url=`cat url`
+name=`ls *txt`
+ echo "Price changed! $last_price to $current_price for $file $url" | mutt -s "Price changed $last_price to $current_price for $file" -e "set realname=$name" mannabhanushali@gmail.com
+  fi
+
+  # Sleep for a defined time (e.g., 1 minute) before running the loop again
+  sleep 7200
+done

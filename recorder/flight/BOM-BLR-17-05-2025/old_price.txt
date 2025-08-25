@@ -1,0 +1,2 @@
+Airline|Flight No.|Departure|Duration|Arrival|Base Fare|Tax 1|Tax 2
+AW-1659|28-1405|AW-5946|AW-1659|LR-1705|LR-1705|LR-1705|LR-1705

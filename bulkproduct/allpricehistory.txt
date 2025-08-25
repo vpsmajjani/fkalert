@@ -1,0 +1,184 @@
+price_eecocool-75-l-desert-air-cooler_fk_570.txt, 2025-06-06_23:24:57,
+price_voltas-90-l-desert-air-cooler_fk_694.txt, 2025-06-06_23:25:35, 19999
+price_voltas-90-l-desert-air-cooler_fk_694.txt, 2025-06-06_23:25:39, 9888
+price_iair-125-l-room-personal-air-cooler_fk_845.txt, 2025-06-06_23:26:18,
+price_iair-15-l-room-personal-air-cooler_fk_942.txt, 2025-06-06_23:26:47,
+price_iair-15-l-room-personal-air-cooler_fk_997.txt, 2025-06-06_23:27:04,
+price_v-guard-50-l-tower-air-cooler_fk_081.txt, 2025-06-06_23:27:30,
+price_nokia-130-music-dual-sim-player-wireless-fm-radio-dedicated-buttons_fk_738.txt, 2025-06-07_23:31:41, 1808
+price_eecocool-75-l-desert-air-cooler_fk_570.txt, 2025-06-07_23:32:09,
+price_crompton-75-l-desert-air-cooler_fk_625.txt, 2025-06-07_23:32:27, 9499
+price_bajaj-36-l-room-personal-air-cooler_fk_639.txt, 2025-06-07_23:32:33, 5410
+price_iair-125-l-room-personal-air-cooler_fk_845.txt, 2025-06-07_23:33:34,
+price_iair-15-l-room-personal-air-cooler_fk_942.txt, 2025-06-07_23:34:02,
+price_crompton-100-l-desert-air-cooler-motor-overload-protection-auto-drain_fk_969.txt, 2025-06-07_23:34:12, 13840
+price_iair-15-l-room-personal-air-cooler_fk_997.txt, 2025-06-07_23:34:22,
+price_v-guard-50-l-tower-air-cooler_fk_081.txt, 2025-06-07_23:34:47,
+price_sansui-120-l-desert-air-cooler_fk_108.txt, 2025-06-07_23:34:57, 10999
+price_nokia-130-music-dual-sim-player-wireless-fm-radio-dedicated-buttons_fk_738.txt, 2025-06-09_12:08:17, 1570
+price_eecocool-75-l-desert-air-cooler_fk_570.txt, 2025-06-09_12:08:44,
+price_kenstar-27-l-room-personal-air-cooler_fk_818.txt, 2025-06-09_12:09:52, 4790
+price_iair-125-l-room-personal-air-cooler_fk_845.txt, 2025-06-09_12:10:02,
+price_iair-15-l-room-personal-air-cooler_fk_942.txt, 2025-06-09_12:10:30,
+price_crompton-100-l-desert-air-cooler-motor-overload-protection-auto-drain_fk_969.txt, 2025-06-09_12:10:40, 12992
+price_iair-15-l-room-personal-air-cooler_fk_997.txt, 2025-06-09_12:10:50,
+price_v-guard-50-l-tower-air-cooler_fk_081.txt, 2025-06-09_12:11:15,
+price_nokia-130-music-dual-sim-player-wireless-fm-radio-dedicated-buttons_fk_738.txt, 2025-06-09_16:36:26, 1802
+price_eecocool-75-l-desert-air-cooler_fk_570.txt, 2025-06-09_16:36:53,
+price_sansui-78-l-desert-air-cooler_fk_832.txt, 2025-06-09_16:38:05, 7799
+price_iair-125-l-room-personal-air-cooler_fk_845.txt, 2025-06-09_16:38:12,
+price_iair-15-l-room-personal-air-cooler_fk_942.txt, 2025-06-09_16:38:40,
+price_crompton-100-l-desert-air-cooler-motor-overload-protection-auto-drain_fk_969.txt, 2025-06-09_16:38:50, 13899
+price_iair-15-l-room-personal-air-cooler_fk_997.txt, 2025-06-09_16:39:00,
+price_v-guard-50-l-tower-air-cooler_fk_081.txt, 2025-06-09_16:39:24,
+price_v-guard-50-l-tower-air-cooler_fk_081.txt, 2025-06-09_16:44:20,
+price_v-guard-50-l-tower-air-cooler_fk_081.txt, 2025-06-09_16:45:51,
+price_crocs-women-classic-2-0-flip-flops_fk_426.txt, 2025-06-09_16:54:00,
+price_redmi-a5-jaisalmer-gold-64-gb_fk_515.txt, 2025-06-09_16:58:12, 6499
+price_redmi-a5-jaisalmer-gold-64-gb_fk_515.txt, 2025-06-09_16:58:38, 6499
+price_redmi-a5-jaisalmer-gold-64-gb_fk_515.txt, 2025-06-09_16:59:42, 6499
+price_redmi-a5-jaisalmer-gold-64-gb_fk_515.txt, 2025-06-09_17:02:11, 6499
+crocs-women-clogs_fk_178, 2025-06-09_17:59:41,
+crocs-women-clogs_fk_191, 2025-06-09_17:59:55,
+crocs-women-clogs_fk_257, 2025-06-09_18:01:01,
+crocs-women-clogs_fk_299, 2025-06-09_18:01:43, 3371
+price_crocs-women-clogs_fk_299.txt, 2025-06-09_18:02:45, 3371
+avita-domus-10w-led-5ch-rgb-smart-bulb_fk_016, 2025-06-10_12:33:40, 294
+price_avita-domus-10w-led-5ch-rgb-smart-bulb_fk_016.txt, 2025-06-10_12:39:27, 294
+price_avita-domus-10w-led-5ch-rgb-smart-bulb_fk_016.txt, 2025-06-10_12:40:52, 294
+price_avita-domus-10w-led-5ch-rgb-smart-bulb_fk_016.txt, 2025-06-10_12:41:31, 294
+havells-bt4441-trimmer-120-min-runtime-9-length-settings_fk_077, 2025-06-12_22:54:41, 699
+logitech-b175-optical-tracking-12-months-battery-life-ambidextrous-wireless-mouse_fk_677, 2025-06-13_12:08:01, 499
+logitech-b175-optical-tracking-12-months-battery-life-ambidextrous-wireless-mouse_fk_570, 2025-06-13_12:22:55, 499
+dream-care-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_591, 2025-06-13_14:53:14, 534
+gadda-co-fitted-queen-size-waterproof-stretchable-breathable-mattress-cover_fk_599, 2025-06-13_14:53:23, 437
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_608, 2025-06-13_14:53:32, 430
+flipkart-perfect-homes-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_617, 2025-06-13_14:53:40, 799
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_634, 2025-06-13_14:53:58, 449
+flipkart-perfect-homes-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_643, 2025-06-13_14:54:07, 784
+flipkart-smartbuy-fitted-queen-size-waterproof-breathable-stretchable-mattress-cover_fk_677, 2025-06-13_14:54:40, 508
+flipkart-smartbuy-fitted-queen-size-waterproof-breathable-stretchable-mattress-cover_fk_685, 2025-06-13_14:54:49, 508
+crazy-world-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_702, 2025-06-13_14:55:06, 492
+ultrasleep-fitted-queen-size-breathable-waterproof-mattress-cover_fk_711, 2025-06-13_14:55:15, 774
+itaj-fitted-queen-size-stretchable-waterproof-mattress-cover_fk_720, 2025-06-13_14:55:24, 567
+itaj-fitted-queen-size-stretchable-waterproof-mattress-cover_fk_729, 2025-06-13_14:55:32, 489
+everdecor-fitted-double-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_754, 2025-06-13_14:55:58, 889
+crazy-world-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_763, 2025-06-13_14:56:07, 486
+softdreams-fitted-queen-size-breathable-waterproof-mattress-cover_fk_772, 2025-06-13_14:56:16, 567
+my-armor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_798, 2025-06-13_14:56:41, 1111
+everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_806, 2025-06-13_14:56:49, 478
+rakhi-home-dcor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_814, 2025-06-13_14:56:58, 566
+everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_823, 2025-06-13_14:57:06, 538
+dream-care-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_831, 2025-06-13_14:57:15, 663
+ultrasleep-fitted-queen-size-breathable-waterproof-mattress-cover_fk_848, 2025-06-13_14:57:32, 774
+dream-cure-elastic-strap-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_857, 2025-06-13_14:57:40, 595
+everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_865, 2025-06-13_14:57:49, 488
+dream-care-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_874, 2025-06-13_14:57:58, 663
+everdecor-fitted-double-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_883, 2025-06-13_14:58:06, 681
+everdecor-fitted-double-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_891, 2025-06-13_14:58:15, 686
+everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_900, 2025-06-13_14:58:23, 488
+avi-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_908, 2025-06-13_14:58:32, 630
+avi-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_917, 2025-06-13_14:58:41, 664
+avi-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_926, 2025-06-13_14:58:49, 623
+dream-care-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_966, 2025-06-13_15:16:10, 534
+dream-care-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_540, 2025-06-13_15:25:43, 534
+gadda-co-fitted-queen-size-waterproof-stretchable-breathable-mattress-cover_fk_548, 2025-06-13_15:25:52, 437
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_557, 2025-06-13_15:26:01, 430
+flipkart-perfect-homes-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_566, 2025-06-13_15:26:10, 799
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_583, 2025-06-13_15:26:27, 449
+flipkart-perfect-homes-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_592, 2025-06-13_15:26:35, 784
+flipkart-smartbuy-fitted-queen-size-waterproof-breathable-stretchable-mattress-cover_fk_626, 2025-06-13_15:27:09, 508
+flipkart-smartbuy-fitted-queen-size-waterproof-breathable-stretchable-mattress-cover_fk_634, 2025-06-13_15:27:18, 508
+crazy-world-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_651, 2025-06-13_15:27:35, 492
+ultrasleep-fitted-queen-size-breathable-waterproof-mattress-cover_fk_660, 2025-06-13_15:27:44, 774
+itaj-fitted-queen-size-stretchable-waterproof-mattress-cover_fk_669, 2025-06-13_15:27:52, 567
+itaj-fitted-queen-size-stretchable-waterproof-mattress-cover_fk_677, 2025-06-13_15:28:01, 489
+everdecor-fitted-double-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_703, 2025-06-13_15:28:27, 889
+crazy-world-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_712, 2025-06-13_15:28:35, 486
+softdreams-fitted-queen-size-breathable-waterproof-mattress-cover_fk_720, 2025-06-13_15:28:44, 567
+my-armor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_746, 2025-06-13_15:29:10, 1111
+everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_755, 2025-06-13_15:29:18, 478
+rakhi-home-dcor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_763, 2025-06-13_15:29:26, 566
+everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_771, 2025-06-13_15:29:34, 538
+dream-care-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_779, 2025-06-13_15:29:43, 663
+ultrasleep-fitted-queen-size-breathable-waterproof-mattress-cover_fk_796, 2025-06-13_15:30:00, 774
+dream-cure-elastic-strap-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_805, 2025-06-13_15:30:10, 595
+everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_815, 2025-06-13_15:30:23, 488
+dream-care-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_828, 2025-06-13_15:30:38, 663
+everdecor-fitted-double-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_843, 2025-06-13_15:31:09, 681
+everdecor-fitted-double-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_874, 2025-06-13_15:31:23, 686
+everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_888, 2025-06-13_15:31:37, 488
+avi-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_902, 2025-06-13_15:31:46, 630
+avi-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_911, 2025-06-13_15:31:55, 664
+avi-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_920, 2025-06-13_15:32:04, 623
+price_ultrasleep-fitted-queen-size-breathable-waterproof-mattress-cover_fk_796.txt, 2025-06-13_17:03:57, 774
+price_mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_557.txt, 2025-06-15_12:03:45, 399
+price_dream-cure-elastic-strap-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_805.txt, 2025-06-15_20:02:41, 799
+price_crazy-world-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_712.txt, 2025-06-17_10:02:25, 492
+price_dream-care-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_540.txt, 2025-06-17_10:02:32, 635
+price_everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_755.txt, 2025-06-17_10:02:58, 492
+price_everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_888.txt, 2025-06-17_10:03:15, 492
+price_gadda-co-fitted-queen-size-waterproof-stretchable-breathable-mattress-cover_fk_548.txt, 2025-06-17_10:03:35, 473
+price_itaj-fitted-queen-size-stretchable-waterproof-mattress-cover_fk_677.txt, 2025-06-17_10:03:44, 488
+price_mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_583.txt, 2025-06-17_10:03:55, 486
+price_rakhi-home-dcor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_763.txt, 2025-06-17_10:04:07, 558
+price_ultrasleep-fitted-queen-size-breathable-waterproof-mattress-cover_fk_796.txt, 2025-06-17_10:04:21, 770
+price_avi-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_920.txt, 2025-06-17_11:02:16, 629
+price_dream-care-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_779.txt, 2025-06-17_11:02:34, 667
+price_dream-cure-elastic-strap-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_805.txt, 2025-06-17_11:02:43, 730
+price_everdecor-fitted-double-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_843.txt, 2025-06-17_11:02:53, 688
+price_everdecor-fitted-double-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_874.txt, 2025-06-17_11:02:59, 688
+price_everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_815.txt, 2025-06-17_11:03:15, 492
+price_itaj-fitted-queen-size-stretchable-waterproof-mattress-cover_fk_669.txt, 2025-06-17_11:03:42, 569
+price_my-armor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_746.txt, 2025-06-17_11:03:59, 1113
+fire-boltt-hurricane-33-02mm-1-3-curved-glass-display-bt-calling-100-sports-modes-smartwatch_fk_534, 2025-06-17_17:12:18, 1399
+fire-boltt-hurricane-33-02mm-1-3-curved-glass-display-bt-calling-100-sports-modes-smartwatch_fk_534, 2025-06-17_17:12:18, 1399
+fire-boltt-hurricane-33-02mm-1-3-curved-glass-display-bt-calling-100-sports-modes-smartwatch_fk_766, 2025-06-17_17:16:10, 1399
+fire-boltt-hurricane-33-02mm-1-3-curved-glass-display-bt-calling-100-sports-modes-smartwatch_fk_766, 2025-06-17_17:16:10, 1399
+price_fire-boltt-hurricane-33-02mm-1-3-curved-glass-display-bt-calling-100-sports-modes-smartwatch_fk_766.txt, 2025-06-17 17:32:57, 1399 4.1
+mattress-protector-fitted-queen-size-waterproof-stretchable-breathable-cover_fk_328, 2025-06-17_17:58:52, 984
+mattress-protector-fitted-queen-size-waterproof-stretchable-breathable-cover_fk_328, 2025-06-17_17:58:52, 984
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_337, 2025-06-17_17:59:00, 499
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_337, 2025-06-17_17:59:00, 499
+la-verne-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_345, 2025-06-17_17:59:09, 575
+la-verne-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_345, 2025-06-17_17:59:09, 575
+la-verne-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_354, 2025-06-17_17:59:18, 575
+la-verne-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_354, 2025-06-17_17:59:18, 575
+crazy-world-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_363, 2025-06-17_17:59:26, 492
+crazy-world-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_363, 2025-06-17_17:59:26, 492
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_336, 2025-06-18_11:12:20, 499
+mattress-protector-fitted-queen-size-waterproof-stretchable-breathable-cover_fk_345, 2025-06-18_11:12:29, 984
+la-verne-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_354, 2025-06-18_11:12:38, 575
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_363, 2025-06-18_11:12:47, 399
+crazy-world-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_372, 2025-06-18_11:12:55, 492
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_380, 2025-06-18_11:13:04, 485
+sleepyhead-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_389, 2025-06-18_11:13:12, 791
+everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_397, 2025-06-18_11:13:21, 753
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_406, 2025-06-18_11:13:29, 595
+la-verne-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_414, 2025-06-18_11:13:38, 575
+dream-care-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_423, 2025-06-18_11:13:47, 766
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_432, 2025-06-18_11:13:56, 486
+crazy-world-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_441, 2025-06-18_11:14:04, 492
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_458, 2025-06-18_11:14:22, 483
+wakefit-elastic-strap-queen-size-waterproof-mattress-cover_fk_467, 2025-06-18_11:14:30, 699
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_475, 2025-06-18_11:14:39, 489
+gadda-co-fitted-queen-size-waterproof-stretchable-breathable-mattress-cover_fk_484, 2025-06-18_11:14:48, 599
+everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_501, 2025-06-18_11:15:04, 492
+mattress-protector-fitted-queen-size-waterproof-stretchable-breathable-cover_fk_509, 2025-06-18_11:15:13, 862
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_518, 2025-06-18_11:15:22, 473
+flipkart-smartbuy-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_527, 2025-06-18_11:15:30, 499
+sleepyhead-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_535, 2025-06-18_11:15:39, 791
+everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_544, 2025-06-18_11:15:47, 492
+grinaf-zippered-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_552, 2025-06-18_11:15:56, 742
+dream-care-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_561, 2025-06-18_11:16:05, 747
+dream-care-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_570, 2025-06-18_11:16:14, 635
+crazy-world-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_579, 2025-06-18_11:16:22, 492
+sleep-protectors-fitted-queen-double-size-breathable-waterproof-mattress-cover_fk_595, 2025-06-18_11:16:39, 548
+mattress-protector-fitted-queen-size-waterproof-stretchable-breathable-cover_fk_604, 2025-06-18_11:16:47, 984
+sleepyhead-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_612, 2025-06-18_11:16:56, 1231
+everdecor-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_621, 2025-06-18_11:17:04, 492
+la-verne-fitted-queen-size-breathable-stretchable-waterproof-mattress-cover_fk_629, 2025-06-18_11:17:13, 575
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_638, 2025-06-18_11:17:25, 486
+sleep-protectors-fitted-queen-size-breathable-waterproof-mattress-cover_fk_651, 2025-06-18_11:17:35, 783
+sleep-protectors-fitted-queen-size-breathable-waterproof-mattress-cover_fk_660, 2025-06-18_11:17:44, 573
+mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_fk_669, 2025-06-18_11:17:53, 476

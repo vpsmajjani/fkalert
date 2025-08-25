@@ -1,0 +1,38 @@
+---
+- name: trying
+  hosts: all
+  vars:
+    - apps: [manish, kiran, haresh]
+    - soft: [nano, nginx, megatools]
+
+  tasks:
+  - name: trying
+    apt:
+      name: megatools
+      state: present
+    tags: megatools
+
+  - name: creating user
+    user:
+      name: "{{ item }}"
+      state: present
+    loop: "{{ apps }}"
+    tags: user
+
+  - name: installing soft
+    package:
+      name: "{{item}}"
+    loop: "{{soft}}"
+    tags: multisoft
+
+  - name: df
+    raw: |
+        df -h
+        echo "************** free *****************"
+        free -h
+    register: df
+    tags: df
+
+  - name: debuging
+    debug:
+      msg: "{{ df.stdout_lines }}"

@@ -1,0 +1,12 @@
+set realname = "Flipkart Alert"
+set from = "contact@kkod.shop"
+
+# SMTP
+set smtp_url = "smtp://contact@kkod.shop@smtp.zoho.in:587/"
+set smtp_pass = "l0vef0r@!!"
+
+# IMAP
+set imap_user = "contact@mkod.shop"
+set imap_pass = "K!ngc0br@"
+set folder = "imaps://imap.zoho.in"
+set spoolfile = "+INBOX"

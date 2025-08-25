@@ -1,0 +1,49 @@
+import sqlite3
+import pandas as pd
+import streamlit as st
+import matplotlib.pyplot as plt
+
+# Set Streamlit app title
+st.title("📈 Flipkart Product Price Tracker")
+
+# Connect to SQLite database
+conn = sqlite3.connect("limited_product_prices.db")
+
+# Load the table
+query = "SELECT * FROM limited_product_price_history"
+df = pd.read_sql_query(query, conn)
+
+# Rename columns
+df.columns = ["id", "file_name", "timestamp", "price", "rating", "url"]
+
+# Normalize timestamp (replace "_" with space)
+df["timestamp"] = pd.to_datetime(df["timestamp"].str.replace("_", " "), errors="coerce")
+
+# Extract product name from file or URL as fallback
+df["product"] = df["file_name"]
+df.loc[df["product"].isnull() | (df["product"] == ""), "product"] = df["url"].apply(
+    lambda x: x.split("/")[3] if isinstance(x, str) and x.startswith("http") else "Unknown"
+)
+
+# Sidebar - select a product
+product_list = sorted(df["product"].unique())
+selected_product = st.sidebar.selectbox("Select a product", product_list)
+
+# Filter data for the selected product
+filtered_df = df[df["product"] == selected_product].sort_values("timestamp")
+
+# Plotting
+fig, ax = plt.subplots()
+ax.plot(filtered_df["timestamp"], filtered_df["price"], marker='o', linestyle='-')
+ax.set_title(f"Price Trend for: {selected_product}")
+ax.set_xlabel("Timestamp")
+ax.set_ylabel("Price (INR)")
+plt.xticks(rotation=45)
+plt.tight_layout()
+
+# Display chart
+st.pyplot(fig)
+
+# Optional: Show raw data
+if st.checkbox("Show raw data table"):
+    st.write(filtered_df)

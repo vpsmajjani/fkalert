@@ -1,0 +1,4 @@
+
+sh executeshfiles.sh >>datafor
+cat datafor |awk -F 'Price not found for price_' '{print $2}'|awk -F '.txt' '{print $1}' >>deletedata
+rm -rf `cat deletedata`

@@ -1,0 +1,1 @@
+scp admin@13.60.26.51:/home/admin/backup-process/price_graphs/limited/product_prices.db .

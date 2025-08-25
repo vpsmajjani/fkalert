@@ -1,0 +1,3 @@
+https://www.zeptonow.com/pn/eveready-carbon-zinc-aa-battery/pvid/0a409649-23d1-4231-b2e5-338e67e819c2
+node link.js 'https://www.zeptonow.com/pn/eveready-carbon-zinc-aa-battery/pvid/0a409649-23d1-4231-b2e5-338e67e819c2' | grep -oP '₹\d+'
+node link.js https://www.instagram.com/orchids_9a | grep -oP 'https://[^\s"]+'

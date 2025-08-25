@@ -1,0 +1,4 @@
+🔄 Changed Prices (Full line + Old/New comparison):
+
+✅ No changes detected. Nothing written to 'price_changes.txt'.
+📁 'latest_price.txt' has been copied to 'old_price.txt'

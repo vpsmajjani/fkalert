@@ -1,0 +1,6 @@
+echo "enter your search URL:"
+read url
+node source4.js $url | sed '/^sh sc1v1.sh /!{s/^/sh sc1v1.sh /; a\
+| grep tail -n +3\nsleep 10\
+}'
+

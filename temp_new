@@ -1,0 +1,47 @@
+#!/bin/bash
+
+# Get the name of the TXT file (assuming only one matching file in this directory)
+file=$(ls *.txt)
+
+# Get the last price from the file (last line)
+last_price=$(tail -1 "$file")
+
+# Get the current price by running link.js and extracting the price using grep
+current_price=$(node link.js 'https://www.flipkart.com/redmi-a5-jaisalmer-gold-64-gb/p/itm2b4357effaa74?pid=MOBHB2HGH5DCFNWZ' | grep -oP '"price":\s*\K\d+' | head -n 1)
+
+# Check if current price was found
+if [ -z "$current_price" ]; then
+    echo "price not found" >>wait 2>&1wait
+else
+    # Compare the last recorded price with the current price
+    if [ "$last_price" -eq "$current_price" ]; then
+        echo "Status is the same"
+    else
+        current_date=$(date "+%Y-%m-%d %H:%M:%S")
+        c_date=$(date "+%Y-%m-%d_%H:%M:%S")
+
+        # Log to central price history file
+        echo "$file, $c_date, $current_price" >> /home/manish/puppeteer-scraper/flipkart_urls/bulkproduct/allpricehistory.txt
+
+        echo "price changed"
+
+        # Log to individual product file
+        echo "$current_date" >> "$file"
+        echo "$current_price" >> "$file"
+
+        # Get additional data for notification
+        url=$(cat url)
+        lowest_price=$(grep -E '^[0-9]+$' *.txt | sort -n | head -n 1)
+        list=$(grep -E '^[0-9]+$' *.txt | sort -n)
+        name=$(ls *.txt)
+
+        # Send email notification
+        echo "Price changed! $current_date  $last_price to $current_price for $file $url and lowest was $lowest_price, here is list $list" \
+            | mutt -s "Price changed $last_price to $current_price for $file" \
+            -e "set realname='$name'" merakod@gmail.com
+
+        # Append to log of changed prices
+        echo "Price changed! $current_date $last_price to $current_price for $file $url and lowest was $lowest_price, here is list $list" \
+            >> /home/manish/puppeteer-scraper/flipkart_urls/listofchangedprice.txt
+    fi
+fi

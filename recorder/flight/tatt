@@ -1,0 +1,17 @@
+awk '
+    FNR==NR { old[$1]=$2; next }  # First file: current_prices.txt (old prices)
+    {
+        if (!($1 in old)) {
+            printf "%s: NEW flight, Price=%s\n", $1, $2
+        } else if ($2 != old[$1]) {
+            diff = $2 - old[$1]
+            printf "%s: Price changed: Old=%s, New=%s, Change=%+d\n", $1, old[$1], $2, diff
+        }
+        updated[$1] = $2  # Save latest price
+    }
+    END {
+        for (id in updated)
+            print id, updated[id] > "current_prices.txt"
+    }
+' current_prices.txt previous_prices.txt > price_diff_report.txt
+

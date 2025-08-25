@@ -1,0 +1,2 @@
+node link.js 'https://www.railmitra.com/pnr-status?pnr=8132316350' | grep -o 'TQWL [0-9]\+' | head -n 4 |  sort
+node link.js https://www.railmitra.com/pnr-status?pnr=8632988568 | grep -oP '<td>GNWL 205</td><td>\KGNWL \d+'

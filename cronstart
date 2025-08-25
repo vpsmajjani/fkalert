@@ -1,0 +1,2 @@
+sleep 20
+/etc/init.d/cron start 2>&1 >/tmp/crontstart 

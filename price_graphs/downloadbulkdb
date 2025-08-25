@@ -1,0 +1,1 @@
+scp admin@16.170.225.195:/home/admin/backup-process/bulk/product_prices.db .

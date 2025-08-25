@@ -1,0 +1,27 @@
+sh sc1v1.sh https://www.flipkart.com/kesh-king-ayurvedic-anti-hairfall-shampoo-enriched-aloe-21-herbs/p/itmd27c634f25917?pid=SMPGEA3W6VFBYZ8B
+sleep 10
+sh sc1v1.sh tess
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/ariel-top-load-fresh-liquid-detergent/p/itm188248330153b
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/wow-skin-science-apple-cider-vinegar-foaming-no-parabens-sulphate-face-wash/p/itmbd81864d1c0de?pid=FCWFYFDCVEPQ3GHB
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/nivia-storm-pump-football-size-5/p/itm61e8ff9013ab9?pid=BALGT7YTWAHUN4EY
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/nivia-storm-pump-football-size-5/p/itm61e8ff9013ab9?pid=BALGT7YTWAHUN4EY
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/iffalcon-tcl-u64-139-cm-55-inch-ultra-hd-4k-led-smart-google-tv-24w-dolby-audio-hdr10/p/itma839a651fa064?pid=TVSGZK4GUDMN2VVU
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/wow-skin-science-vitamin-c-niacinamide-foaming-built-brush-deep-cleansing-face-wash/p/itmade2ac1dc94a0?pid=FCWFYGA63J8VFMMZ
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/haier-6-5-kg-balance-clean-pulsator-custom-wash-cycles-15-mins-quick-wash-magic-filter-fully-automatic-top-load-washing-machine-brown-grey/p/itm2c899989a92d7?pid=WMNGFHFPD9KCRH7Y
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/cmf-nothing-phone-1-black-128-gb/p/itmeef68c7ce70bf?pid=MOBHYBQTSE9EKVBT
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/ambrane-10000-mah-12-w-compact-pocket-size-power-bank/p/itmfgysrrxhrggnv?pid=PWBFGYHFCUTJGUQD
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/crompton-energion-hyperjet-5-star-1200-mm-3-blade-ceiling-fan/p/itm415cef71fa427?pid=FANGQFKMH2UTGC4Z
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/motorola-envisionx-140-cm-55-inch-qled-ultra-hd-4k-smart-google-tv-dolby-vision-atmos/p/itm1cfe8a61a68c5?pid=TVSGSRQ9SXPXPTXJ
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/sleepyhead-flip-dual-sided-5-inch-queen-high-density-hd-foam-mattress/p/itm97647074953fe?pid=BEMFP9G8QR5WDYHD

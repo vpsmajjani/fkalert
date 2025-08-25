@@ -1,0 +1,5 @@
+#removes lines ending with coma, it means those have not collected price
+grep -vE ',$' allpricehistory.txt
+
+#remove any specific line with word
+sed -i '/crocs/d' allpricehistory.txt

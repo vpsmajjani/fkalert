@@ -1,0 +1,48 @@
+sh sc1v1.sh https://www.flipkart.com/crompton-energion-hyperjet-5-star-1200-mm-3-blade-ceiling-fan/p/itmf28deed27e178?pid=FANGQ5YKHBFUZWKX
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/kuhl-twist-l3-1320mm-65-power-saving-bldc-ceiling-fan-bee-5-star-rated-isi-marked-1320-mm-3-blade-fan/p/itm4d0e2fd74bd81?pid=FANH7G73PYQMNVTW
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/longway-creta-p1-1200-mm-3-blade-ceiling-fan/p/itmbe6a9bb390bb8?pid=FANFPU87TZGWSNJM
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/longway-creta-p1-1200-mm-3-blade-ceiling-fan/p/itmd2660b2b72fc7?pid=FANFPFZY55SFGGZR
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/candes-majestic-led-light-indicator-5-star-1200-mm-3-blade-ceiling-fan/p/itm2ffddefcf2079?pid=FANHFEZAG9XGZRGP
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/longway-creta-p1-600-mm-4-blade-ceiling-fan/p/itm88f28d23f9265?pid=FANGZ8Q6KKWBAFJ5
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/crompton-energion-hyperjet-5-star-1200-mm-3-blade-ceiling-fan/p/itm415cef71fa427?pid=FANGQFKMH2UTGC4Z
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/seasons-high-speed-rechargeable-table-fan-led-light-home-office-desk-kitchen-5-star-1400-mm-3-blade-pedestal/p/itm5e76a73ceccac?pid=FANHY8J2XYFVFMHV
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/atomberg-renesa-prime-remote-5-star-1200-mm-3-blade-ceiling-fan/p/itmb67b59402a728?pid=FANGX234NUQNWVZJ
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/orient-electric-ujala-prime-5-star-1200-mm-3-blade-ceiling-fan/p/itm5d28c8311bbd2?pid=FANGTBF8Z2DBZZHR
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/crompton-energion-hyperjet-5-star-1200-mm-3-blade-ceiling-fan/p/itm3a71c2ca6ad1e?pid=FANGQFKGPPBCDBZF
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/kuhl-exzel-h3-450-mm-11-blade-pedestal-fan/p/itm398422a36a152?pid=FANH3ZSDGE3RQN2V
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/atomberg-efficio-alpha-35w-energy-saving-1-1-warranty-5-star-1200-mm-3-blade-ceiling-fan/p/itm65b8e7583cbb7?pid=FANHFPVYPMJUBN5Z
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/v-guard-esfera-sts-plus-2-1-convertible-red-black-400-mm-3-blade-pedestal-fan/p/itm8c1fae5a7e2b9?pid=FANGCYVRVDBQMRZS
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/orient-electric-ujala-prime-5-star-1200-mm-3-blade-ceiling-fan/p/itmbac07cc27191f?pid=FANGTBF8GNTGAZQK
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/activa-gracia-1200-mm-3-blade-ceiling-fan/p/itme303ce4e5c285?pid=FANGQ8MUDZC9GA2X
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/activa-gracia-1200-mm-3-blade-ceiling-fan/p/itmad59eb397f666?pid=FANGQHGHAPXW8JAJ
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/ivas-magnus-bldc-energy-saving-free-installation-5-star-1200-mm-3-blade-ceiling-fan/p/itm50241d3d561c3?pid=FANH45SDB4QHQJ6H
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/candes-majestic-led-light-indicator-5-star-1200-mm-3-blade-ceiling-fan/p/itm144b075b5f852?pid=FANHFEZAQGZPXYUT
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/atomberg-renesa-prime-remote-5-star-1200-mm-3-blade-ceiling-fan/p/itm0966531e53c2b?pid=FANH742V7ZHA8H7Z
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/seasons-high-speed-rechargeable-table-fan-led-light-home-office-kitchen-5-star-1400-mm-3-blade/p/itm9eb0dc091492c?pid=FANH8AK96F6EK5S8
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/digismart-autum-mark-1-380-rpm-high-speed-28watt-led-light-inverter-technology-5-star-1200-mm-3-blade-ceiling-fan/p/itmd9775a8bb5f19?pid=FANGW5J7UVHBDPEG
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/havells-ambrose-bldc-5-star-1200-mm-3-blade-ceiling-fan/p/itm8fc947b5ec172?pid=FANGH5F34TG6GJJF
+sleep 10
+sh sc1v1.sh https://www.flipkart.com/candes-majestic-led-indicator-5-star-1200-mm-3-blade-ceiling-fan/p/itmb4fb56a8fc606?pid=FANH3YQ3VWCZGXGU
+sleep 10

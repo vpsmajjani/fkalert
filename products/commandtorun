@@ -1,0 +1,5 @@
+sqlite3 /home/manish/puppeteer-scraper/flipkart_urls/products/limited_product_prices.db "SELECT * FROM limited_product_price_history;"
+
+
+
+for i in $(find . -mindepth 2 -name "*.sh"); do cat oldmain.sh >$i; done

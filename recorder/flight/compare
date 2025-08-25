@@ -1,0 +1,13 @@
+awk '
+    FNR==NR { prev[$1]=$2; next }
+    {
+        if (!($1 in prev)) {
+            printf "%s: NEW flight, Price=%s\n", $1, $2
+        } else if ($2 != prev[$1]) {
+            diff = $2 - prev[$1]
+            printf "%s: Price changed: Old=%s, New=%s, Change=%+d\n", $1, prev[$1], $2, diff
+        }
+    }
+' previous_prices.txt current_prices.txt > price_diff_report.txt
+cat  price_diff_report.txt>>history
+

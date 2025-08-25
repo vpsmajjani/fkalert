@@ -1,0 +1,1000 @@
+ 1169  ls
+ 1170  cd dmart/
+ 1171  ls
+ 1172  node other.js 'https://www.dmart.in/product/premia-sugar?selectedProd=11346' | grep 220
+ 1173  node other.js 'https://www.dmart.in/product/premia-sugar?selectedProd=11346'
+ 1174  node other.js 'https://www.dmart.in/product/premia-sugar?selectedProd=11346' | grep -oP 220
+ 1175  node other.js 'https://www.dmart.in/product/premia-sugar?selectedProd=11346' | grep -o 220
+ 1176  node other.js 'https://www.dmart.in/product/premia-sugar?selectedProd=11346' | grep price
+ 1177  cd ../foldertoother/
+ 1178  ls
+ 1179  node other.js 'https://www.dmart.in/product/premia-sugar?selectedProd=11346' | grep price
+ 1180  node link.js.js 'https://www.dmart.in/product/premia-sugar?selectedProd=11346' | grep price
+ 1181  node link.js 'https://www.dmart.in/product/premia-sugar?selectedProd=11346' | grep price
+ 1182  node link.js 'https://www.dmart.in/product/premia-sugar?selectedProd=11346' | grep 220
+ 1183  node link.js 'https://www.dmart.in/product/premia-sugar?selectedProd=11346' | grep price
+ 1184  node link.js 'https://www.dmart.in/product/premia-dry-coconut?selectedProd=11265' | grep price
+ 1185  node link.js 'https://www.dmart.in/product/premia-dry-coconut?selectedProd=11265' | grep Coconut
+ 1186  ls
+ 1187  cd ..
+ 1188  ls
+ 1189  cat foldertoother/link.js 
+ 1190  ls
+ 1191  nano temp.js
+ 1192  node temp.js 'https://www.dmart.in/product/premia-dry-coconut?selectedProd=11265' | grep Coconut
+ 1193  >temp.js 
+ 1194  nano temp.js 
+ 1195  node temp.js 'https://www.dmart.in/product/premia-dry-coconut?selectedProd=11265' | grep Coconut
+ 1196  >temp.js 
+ 1197  nano temp.js 
+ 1198  node temp.js 'https://www.dmart.in/product/premia-dry-coconut?selectedProd=11265' | grep Coconut
+ 1199  ls
+ 1200  cd foldertoother/
+ 1201  ls
+ 1202  node temp.js 'https://www.dmart.in/product/premia-dry-coconut?selectedProd=11265' | grep Coconut
+ 1203  ls
+ 1204  cd ..
+ 1205  ls
+ 1206  cat temp.js 
+ 1207  rm temp.js 
+ 1208  ls
+ 1209  mkdir flipkart
+ 1210  cp sc1.sh flipkart/
+ 1211  cp foldertoother/* flipkart/
+ 1212  cd flipkart/
+ 1213  ls
+ 1214  pwd
+ 1215  nano sc1.sh 
+ 1216  sh sc1.sh 
+ 1217  ls
+ 1218  nano sc1.sh 
+ 1219  sh sc1.sh 
+ 1220  ls
+ 1221  rm -rf temptv_fk/
+ 1222  sh sc1.sh 
+ 1223  nano sc1.sh 
+ 1224  ls
+ 1225  rm -rf tvtemp_fk/
+ 1226  sh sc1.sh 
+ 1227  nano sc1.sh 
+ 1228  rm -rf tvtemp_fk/
+ 1229  sh sc1.sh 
+ 1230  nano sc1.sh 
+ 1231  rm -rf tvtemp_fk/
+ 1232  sh sc1.sh 
+ 1233  ls
+ 1234  cd tvtemp_fk/
+ 1235  ls
+ 1236  sh tvtemp_fk.sh 
+ 1237  ls
+ 1238  cat ../../fan/other.js 
+ 1239  ls
+ 1240  cd ..
+ 1241  ls
+ 1242  rm -rf tvtemp_fk/
+ 1243  sh sc1.sh 
+ 1244  cd fantemp_fk/
+ 1245  ls
+ 1246  sh fantemp_fk.sh 
+ 1247  ls
+ 1248  cd ..
+ 1249  ls
+ 1250  cd fantemp_fk/
+ 1251  ls
+ 1252  cd..
+ 1253  cd ..
+ 1254  ls
+ 1255  cd ..
+ 1256  ls
+ 1257  cp flipkart/* amazon/
+ 1258  cp -r  flipkart/* amazon/
+ 1259  ls
+ 1260  cd amazon
+ 1261  ls
+ 1262  rm -rf fantemp_fk/
+ 1263  ls
+ 1264  cp sc1.sh amazon_sc1.sh
+ 1265  nano amazon_sc1.sh 
+ 1266  ls
+ 1267  sh amazon_sc1.sh 
+ 1268  cd mousetemp_az/
+ 1269  ls
+ 1270  sh mousetemp_az.sh 
+ 1271  cat mousetemp_az.txt 
+ 1272  sh mousetemp_az.sh 
+ 1273  ls
+ 1274  cat ../../amazon_sc1.sh 
+ 1275  nano ../amazon_sc1.sh 
+ 1276  ls
+ 1277  cat link.js 
+ 1278  ls
+ 1279  cat mousetemp_az.sh 
+ 1280  cat ../../amazone_mouse/amazone_mouse.sh 
+ 1281  nano ../amazon_sc1.sh 
+ 1282  ls
+ 1283  cd ..
+ 1284  ls
+ 1285  nano amazon_sc1.sh 
+ 1286  ls
+ 1287  nano amazon_areal.sh 
+ 1288  ls ../flipkart/
+ 1289  ls
+ 1290  cd ..
+ 1291  ls
+ 1292  cd flipkart/
+ 1293  ls
+ 1294  cat amazon_areal.sh 
+ 1295  cat sc1.sh 
+ 1296  ls
+ 1297  cd ../amazon
+ 1298  ls
+ 1299  nano sc1.sh 
+ 1300  nano amazon_sc1.sh 
+ 1301  ls
+ 1302  nano amazon_sc1.sh 
+ 1303  ls
+ 1304  rm -rf mousetemp_az/
+ 1305  sh amazon_sc1.sh 
+ 1306  cd mou
+ 1307  ls
+ 1308  cd mosuet_az/
+ 1309  ls
+ 1310  sh mosuet_az.sh 
+ 1311  ls
+ 1312  cat mosuet_az.txt 
+ 1313  ls
+ 1314  cd ..
+ 1315  ls
+ 1316  cd ..
+ 1317  ls
+ 1318  cd amazon
+ 1319  ls
+ 1320  sh amazon_sc1.sh 
+ 1321  cd mouse_recharge_az/
+ 1322  ls
+ 1323  sh mouse_recharge_az.
+ 1324  sh mouse_recharge_az.sh 
+ 1325  ls
+ 1326  cat mouse_recharge_az.sh 
+ 1327  ls
+ 1328  cat mouse_recharge_az.sh | grep 'http/hello/g'
+ 1329  cat mouse_recharge_az.sh | grep 'httpls/hello/g'
+ 1330  ls
+ 1331  cat mouse_recharge_az.sh 
+ 1332  grep -oP 'https?://[^\s]+' mouse_recharge_az.sh 
+ 1333  cd ../../flipkart/
+ 1334  ls
+ 1335  cd fantemp_fk/
+ 1336  ls
+ 1337  grep -oP 'https?://[^\s]+' fantemp_fk.sh 
+ 1338  ls
+ 1339  cd ..
+ 1340  ls
+ 1341  cd fantemp_fk/
+ 1342  ls
+ 1343  nano fantemp_fk.sh 
+ 1344  ls
+ 1345  nano fantemp_fk.txt 
+ 1346  sh fantemp_fk.sh 
+ 1347  nano fantemp_fk.sh 
+ 1348  nano fantemp_fk.txt 
+ 1349  sh fantemp_fk.sh 
+ 1350  ls
+ 1351  cat fantemp_fk.sh 
+ 1352  cd ..
+ 1353  lls
+ 1354  ls
+ 1355  nano areal.sh 
+ 1356  cat fantemp_fk/link.js 
+ 1357  cat fantemp_fk/fantemp_fk.sh 
+ 1358  ls
+ 1359  sh sc1.sh 
+ 1360  cd tempfan_fk/
+ 1361  ls
+ 1362  cat tempfan_fk.sh 
+ 1363  sh tempfan_fk.sh 
+ 1364  ls
+ 1365  nano tempfan_fk.sh 
+ 1366  ls
+ 1367  cd ..
+ 1368  ls
+ 1369  nano areal.sh 
+ 1370  ls
+ 1371  nano areal.sh 
+ 1372  ls
+ 1373  nano areal.sh 
+ 1374  >areal.sh 
+ 1375  nano areal.sh 
+ 1376  ls
+ 1377  sh sc1.sh 
+ 1378  ls
+ 1379  sh sc1.sh 
+ 1380  cd tam_fk/
+ 1381  ls
+ 1382  sh tam_fk.sh 
+ 1383  cd ..
+ 1384  ls
+ 1385  nano areal.sh 
+ 1386  ls
+ 1387  nano sc1.sh 
+ 1388  ls
+ 1389  rm fant*
+ 1390  rm fant* -rf
+ 1391  ls
+ 1392  rm tam_fk/
+ 1393  rm tam_fk/ -rf
+ 1394  ls
+ 1395  sh sc1.sh 
+ 1396  ls
+ 1397  cd tess_fk/
+ 1398  ls
+ 1399  cd ..
+ 1400  ls
+ 1401  nano areal.sh 
+ 1402  ls
+ 1403  nano sc1.sh 
+ 1404  rm -rf te* -rf
+ 1405  ls
+ 1406  sh sc1.sh 
+ 1407  cd fantemp_fk/
+ 1408  ls
+ 1409  cat url 
+ 1410  cat fantemp_fk.
+ 1411  ls
+ 1412  cd url 
+ 1413  ls
+ 1414  cat url 
+ 1415  cd ..
+ 1416  ls
+ 1417  nano areal.sh 
+ 1418  nano sc1.sh 
+ 1419  ls
+ 1420  rm -rf fantemp_fk/
+ 1421  ls
+ 1422  sh sc1.sh 
+ 1423  ls
+ 1424  cd fan_fk/
+ 1425  ls
+ 1426  cat url 
+ 1427  ls
+ 1428  cd ..
+ 1429  ls
+ 1430  nano areal.sh 
+ 1431  ls
+ 1432  rm -rf fan_fk/
+ 1433  sh sc1.sh 
+ 1434  cd fan_fk/
+ 1435  ls
+ 1436  sh fan_fk.sh 
+ 1437  ls
+ 1438  cd ..
+ 1439  ls
+ 1440  tmux ls
+ 1441  tmux a -t 
+ 1442  tmux a -t 0
+ 1443  ls
+ 1444  cd ..
+ 1445  ls
+ 1446  cat fan/fan.txt 
+ 1447  ls
+ 1448  find . -name '*txt' 
+ 1449  find . -name '*txt'  cat {} +
+ 1450  find . -name '*txt'  du -sch  {} +
+ 1451  find . -name '*txt'  -exec du -sch  {} +
+ 1452  find . -name '*txt'  -exec cat   {} +
+ 1453  ls
+ 1454  find . -name '*txt'  
+ 1455  cat ./areal/ariel.txt
+ 1456  cat ./areal/ariel.txt | grep sort
+ 1457  cat ./areal/ariel.txt
+ 1458  cat ./areal/ariel.txt | grep -s
+ 1459  cat ./areal/ariel.txt | grep sort
+ 1460  cat ./areal/ariel.txt | grep sortcat ./areal/ariel.txt | grep sort
+ 1461  cat ./areal/ariel.txt | grep -i sort
+ 1462  cat ./areal/ariel.txt | grep -n sort
+ 1463  cat ./areal/ariel.txt | grep -c sort
+ 1464  cat ./areal/ariel.txt | grep -o sort
+ 1465  ls
+ 1466  cat ./areal/ariel.txt 
+ 1467  ls
+ 1468  mkdir backup
+ 1469  ls
+ 1470  find . -name '*txt'  -exec cp backup/
+ 1471  find . -name '*txt'  -exec cp backup/ {} +
+ 1472  cd backup/
+ 1473  ls
+ 1474  cd ..
+ 1475  ls
+ 1476  find . -name '*txt'  -exec cp backup/ {} +
+ 1477  find . -name '*txt' 
+ 1478  find . -name '*txt' -exec ls {} + 
+ 1479  find . -name '*txt' -exec cp -r backup/ {} + 
+ 1480  find . -name '*txt' -exec cp -r backup {} + 
+ 1481  find . -name '*txt' -exec cp {} backup/ +
+ 1482  find . -name '*txt' -exec cp -r {} backup/ +
+ 1483  find . -name '*txt' -exec cp {} backup/ +
+ 1484  find . -name '*txt' -exec cp {} backup/ \;
+ 1485  ls backup/
+ 1486  cd backup/
+ 1487  ls
+ 1488  tmux ls
+ 1489  tmux a -t 0
+ 1490  ls
+ 1491  cat fridge.txt 
+ 1492  sort fridge.txt 
+ 1493  cat fridge.txt 
+ 1494  ls
+ 1495  sort shampoo.txt 
+ 1496  sort fridge.txt 
+ 1497  sort -n fridge.txt 
+ 1498  sort -n shampoo.txt 
+ 1499  sort -n shampoo.txt  | head 1
+ 1500  sort -n shampoo.txt  | head -1
+ 1501  ls
+ 1502  sort -n wash6.5.txt  | head -1
+ 1503  sort -n wash6.5.txt  | head -2
+ 1504  sort -n wash6.5.txt 
+ 1505  sort -n * | head -2
+ 1506  sort -n * 
+ 1507  ls
+ 1508  cd ..
+ 1509  ls
+ 1510  cd flipkart/
+ 1511  ls
+ 1512  cat areal.sh 
+ 1513  ls
+ 1514  cd ..
+ 1515  ls
+ 1516  cd amazon
+ 1517  ls
+ 1518  nano amazon_areal.sh 
+ 1519  cat ../flipkart/sc1.sh 
+ 1520  nano amazon_sc1.sh 
+ 1521  ls
+ 1522  sh amazon_sc1.sh 
+ 1523  cd mou_az_az/
+ 1524  ls
+ 1525  cat url 
+ 1526  sh mou_az_az.sh 
+ 1527  ls
+ 1528  nano mou_az_az.sh 
+ 1529  ls
+ 1530  cd ..
+ 1531  nano sc1.sh 
+ 1532  nano ../flipkart/sc1.sh 
+ 1533  nano ../amazon/amazon_sc1.sh 
+ 1534  nano ../flipkart/sc1.sh 
+ 1535  ls
+ 1536  nano ../flipkart/sc1.sh 
+ 1537  nano mou_az_az.sh 
+ 1538  nano sc1.sh 
+ 1539  ls
+ 1540  nano amazon_sc1.sh 
+ 1541  cat amazon_sc1.sh 
+ 1542  ls
+ 1543  cat amazon_areal.sh 
+ 1544  ls
+ 1545  nano amazon_areal.sh 
+ 1546  nano amazon_sc1.sh 
+ 1547  node link.js url | grep -oP '₹\d+\.\d{2}(?=\s+with\s+\d+\s+percent\s+savings
+ 1548  ls
+ 1549  cd mou_az_az/
+ 1550  ls
+ 1551  node link.js url | grep -oP '₹\d+\.\d{2}(?=\s+with\s+\d+\s+percent\s+savings
+ 1552  node link.js url | grep -oP '₹\d+\.\d{2}(?=\s+with\s+\d+\s+percent\s+savings)
+ 1553  node link.js url | grep -oP '₹\d+\.\d{2}(?=\s+with\s+\d+\s+percent\s+savings)'
+ 1554  node link.js url | grep -oP '₹\d+\.\d{2}(?=\s+with\s+\d+\s+percent\s+savings)ls'
+ 1555  ls
+ 1556  node link.js `cat url` | grep -oP '₹\d+\.\d{2}(?=\s+with\s+\d+\s+percent\s+savings)ls'
+ 1557  node link.js `cat url` | grep -oP '₹\d+\.\d{2}(?=\s+with\s+\d+\s+percent\s+savings)'
+ 1558  cat mou_az_az.sh 
+ 1559  node link.js `cat url` | grep -oP '₹\d+\.\d{2}(?=\s+with\s+\d+\s+percent\s+savings)' | sed 's/₹//; s/\.00//')
+ 1560  ls
+ 1561  cat mou_az_az.sh 
+ 1562  node link.js `cat url` |  grep -oP '₹\d+\.\d{2}(?=\s+with\s+\d+\s+percent\s+savings)' | sed 's/₹//; s/\.00//'
+ 1563  cat mou_az_az.sh 
+ 1564  ls
+ 1565  cd ..
+ 1566  ls
+ 1567  nano amazon_areal.sh 
+ 1568  nano amazon_sc1.sh 
+ 1569  ls
+ 1570  sh amazon_sc1.sh 
+ 1571  ls
+ 1572  cat amazon_sc1.sh 
+ 1573  nano amazon_sc1.sh 
+ 1574  ls
+ 1575  rm -rf test_az/
+ 1576  sh amazon_sc1.sh 
+ 1577  cd test_az/
+ 1578  ls
+ 1579  cat url 
+ 1580  ls
+ 1581  cat test_az.txt 
+ 1582  cd ..
+ 1583  ls
+ 1584  cd fli
+ 1585  cd ../flipkart/
+ 1586  ls
+ 1587  cat amazon_sc1.sh 
+ 1588  nano amazon_sc1.sh 
+ 1589  cat ../flipkart/amazon_sc1.sh 
+ 1590  cat ../amazon_sc1.sh 
+ 1591  cat ../amazon/amazon_sc1.sh 
+ 1592  ls
+ 1593  nano sc1.sh 
+ 1594  cat areal.sh 
+ 1595  nano sc1.sh 
+ 1596  sh sc1.sh 
+ 1597  cd remote_fan_crom_fk/
+ 1598  ls
+ 1599  cat remote_fan_crom_fk.txt 
+ 1600  sh remote_fan_crom_fk.sh 
+ 1601  ls
+ 1602  cat remote_fan_crom_fk.txt 
+ 1603  cd ..
+ 1604  ls
+ 1605  cat amazon_areal.sh 
+ 1606  ls
+ 1607  cd fan_fk/
+ 1608  ls
+ 1609  nano fan_fk.txt 
+ 1610  ls
+ 1611  cd ..
+ 1612  ls
+ 1613  cd remote_fan_crom_fk/
+ 1614  ls
+ 1615  cat remote_fan_crom_fk.txt 
+ 1616  nano remote_fan_crom_fk.txt 
+ 1617  sh remote_fan_crom_fk.sh 
+ 1618  ls
+ 1619  cat remote_fan_crom_fk.txt 
+ 1620  ls
+ 1621  tmux ls
+ 1622  tmux a -t 0
+ 1623  ls
+ 1624  uptime 
+ 1625  ls
+ 1626  cd ..
+ 1627  ls
+ 1628  ls */
+ 1629  ls -d /*
+ 1630  ls -d */
+ 1631  ls -dl */
+ 1632  ls -d1 */
+ 1633  tmux 
+ 1634  ls
+ 1635  tmux 
+ 1636  exit
+ 1637  cd /home/manish/puppeteer-scraper/
+ 1638  ls
+ 1639  cd flipkart/
+ 1640  ls
+ 1641  ps -ef
+ 1642  kill 2419
+ 1643  kill -9 2419
+ 1644  ls
+ 1645  nano temp.sh 
+ 1646  ls
+ 1647  cat areal_fk/nohup.out 
+ 1648  nano temp.sh 
+ 1649  sh temp.sh 
+ 1650  tail Apple_Cider_fk/nohup.out 
+ 1651  tail Apple_Cider_fk/nohup.out  -f
+ 1652  nano temp.sh 
+ 1653  ls -1d */
+ 1654  ls -1d *
+ 1655  nano temp.sh 
+ 1656  ls
+ 1657  ls 
+ 1658  ls -l
+ 1659  nano temp.sh 
+ 1660  ls -1d */
+ 1661  ls -1d */ |sed '*//g'
+ 1662  ls -1d */ | sed 's#/##'
+ 1663  nano temp.sh 
+ 1664  sh temp.sh 
+ 1665  tail Apple_Cider_fk/nohup.out  -f
+ 1666  ls
+ 1667  nano Apple_Cider_fk/Apple_Cider_fk.txt 
+ 1668  sh temp.sh 
+ 1669  tail Apple_Cider_fk/nohup.out  -f
+ 1670  nano Apple_Cider_fk/Apple_Cider_fk.sh 
+ 1671  ls
+ 1672  cat Apple_Cider_fk/url 
+ 1673  ls
+ 1674  nano Apple_Cider_fk/Apple_Cider_fk.sh 
+ 1675  nano Apple_Cider_fk/Apple_Cider_fk.txt 
+ 1676  ls
+ 1677  cat Apple_Cider_fk/Apple_Cider_fk.txt 
+ 1678  rm -rf Apple_Cider_fk/
+ 1679  ls
+ 1680  sh sc1.sh 
+ 1681  ls
+ 1682  sh temp.sh 
+ 1683  tail -f apple_cider_fk/apple_cider_fk.txt 
+ 1684  tail -f apple_cider_fk/nohup.out 
+ 1685  ls
+ 1686  nano apple_cider_fk/apple_cider_fk.txt 
+ 1687  sh temp.sh 
+ 1688  tail -f apple_cider_fk/nohup.out 
+ 1689  ls
+ 1690  nano apple_cider_fk/apple_cider_fk.txt 
+ 1691  exit
+ 1692  ls
+ 1693  cd /home/manish/puppeteer-scraper/
+ 1694  ls
+ 1695  cd flipkart/
+ 1696  ls
+ 1697  rm -rf fan_fk/
+ 1698  ls
+ 1699  sh sc1.sh 
+ 1700  ls
+ 1701  cd Apple_Cider_fk/
+ 1702  ls
+ 1703  cat url 
+ 1704  ls
+ 1705  cat Apple_Cider_fk.txt 
+ 1706  ls
+ 1707  pwd; Apple_Cider_fk.txt 
+ 1708  pwd; #Apple_Cider_fk.txt 
+ 1709  cat Apple_Cider_fk.txt 
+ 1710  ls
+ 1711  cd ..
+ 1712  ls
+ 1713  sh sc1.sh 
+ 1714  cd ..
+ 1715  ls
+ 1716  cd flipkart/
+ 1717  ls
+ 1718  sh sc1.sh 
+ 1719  cd ar
+ 1720  cd areal_fk/
+ 1721  ls
+ 1722  cat areal_fk.txt 
+ 1723  pwd
+ 1724  cat areal_fk.
+ 1725  cat areal_fk.txt 
+ 1726  ls
+ 1727  cd ..
+ 1728  sh sc1.sh 
+ 1729  cd ..
+ 1730  ls
+ 1731  cd flipkart/
+ 1732  ls
+ 1733  sh sc1.sh 
+ 1734  cd shampoo_fk/
+ 1735  ls
+ 1736  pwd
+ 1737  ls
+ 1738  cd ..
+ 1739  ls
+ 1740  sh sc1.sh 
+ 1741  ls
+ 1742  cd remote_fan_crom_fk/
+ 1743  ls
+ 1744  cd ..
+ 1745  l
+ 1746  ls -l
+ 1747  ls -ld
+ 1748  ls -d
+ 1749  exit
+ 1750  cd /home/manish/
+ 1751  ls
+ 1752  cd puppeteer-scraper/flipkart/
+ 1753  ls
+ 1754  cd apple_cider_fk/
+ 1755  ls
+ 1756  cat nohup.out 
+ 1757  ls
+ 1758  cat ../areal_fk/nohup.out 
+ 1759  ps
+ 1760  ps -ef
+ 1761  exit
+ 1762  ls
+ 1763  exit
+ 1764  ls
+ 1765  ps -ef
+ 1766  kill -915225
+ 1767  kill -9 15225
+ 1768  ps -ef
+ 1769  exit
+ 1770  cd /home/manish/puppeteer-scraper/flipkart/
+ 1771  ls
+ 1772  cd shampoo_fk/
+ 1773  ls
+ 1774  cat shampoo_fk.sh 
+ 1775  nano shampoo_fk.sh 
+ 1776  tmux ls
+ 1777  tmux a -t 0
+ 1778  ls
+ 1779  cat shampoo_fk.txt 
+ 1780  tmux a -t 0
+ 1781  tmux 
+ 1782  exit
+ 1783  ls
+ 1784  ps -ef
+ 1785  kill -9 16637
+ 1786  tmux ls
+ 1787  tmux a -t 0
+ 1788  ls
+ 1789  cd /home/manish/puppeteer-scraper/flipkart/
+ 1790  ls
+ 1791  cd apple_cider_fk/
+ 1792  cat apple_cider_fk.txt 
+ 1793  sort -n  apple_cider_fk.txt 
+ 1794  sort   apple_cider_fk.txt 
+ 1795  sort  -na apple_cider_fk.txt 
+ 1796  sort  -n apple_cider_fk.txt 
+ 1797  sort -n apple_cider_fk.txt | head -n 1
+ 1798  sort -n apple_cider_fk.txt | grep -v '^$' | head -n 1
+ 1799  cd ..
+ 1800  ls
+ 1801  cd cmf1_fk/
+ 1802  ls
+ 1803  sort -n cmf1_fk.txt | grep -v '^$' | head -n 1
+ 1804  cat cmf1_fk.txt 
+ 1805  grep -E '^[0-9]+$' cmf1_fk.txt | sort -n | head -n 1
+ 1806  grep -E '^[0-9]+$' cmf1_fk.txt 
+ 1807  ls
+ 1808  cd ..
+ 1809  ls
+ 1810  cd apple_cider_fk/
+ 1811  ls
+ 1812  nano apple_cider_fk.sh 
+ 1813  ls
+ 1814  nano apple_cider_fk.txt 
+ 1815  sh apple_cider_fk.sh 
+ 1816  cat apple_cider_fk.sh 
+ 1817  ls
+ 1818  tmux ls
+ 1819  cd ..
+ 1820  ls
+ 1821  sh sc1.sh 
+ 1822  nano sc1.sh 
+ 1823  pwd
+ 1824  nano sc1.sh 
+ 1825  ls
+ 1826  rm -rf sleepwell_fk/
+ 1827  tmux a -t 0
+ 1828  exit
+ 1829  ls
+ 1830  nano ~/.muttrc 
+ 1831  cat /home/manish/puppeteer-scraper/flipkart/remote_fan_crom_fk/remote_fan_crom_fk.sh 
+ 1832  echo "Price changed! $last_price to $current_price for $file $url" | mutt -s "Price changed $last_price to $current_price for $file" -e "set from='Manish'" mannabhanushali@gmail.com
+ 1833  mutt -s "Price changed $last_price to $current_price for $file" -e "set from='Manish'" mannabhanushali@gmail.com
+ 1834  cat ~/.muttrc 
+ 1835  echo "Price changed! $last_price to $current_price for $file $url" | mutt -s "Price changed $last_price to $current_price for $file" -e "set realname='Manish'" mannabhanushali@gmail.com
+ 1836  ls
+ 1837  cd /home/manish/puppeteer-scraper/flipkart/remote_fan_crom_fk/
+ 1838  ls
+ 1839  nano remote_fan_crom_fk.txt 
+ 1840  ls
+ 1841  nano remote_fan_crom_fk.sh 
+ 1842  ls
+ 1843  ls *txt
+ 1844  nano remote_fan_crom_fk.sh 
+ 1845  sh remote_fan_crom_fk.sh
+ 1846  ls
+ 1847  cat remote_fan_crom_fk.sh 
+ 1848  cd ../..
+ 1849  ls
+ 1850  nano sc1.sh 
+ 1851  cd flipkart/
+ 1852  ls
+ 1853  nano areal.sh 
+ 1854  cp areal.sh  areal.shv1
+ 1855  >areal.sh
+ 1856  nano areal.sh
+ 1857  ls
+ 1858  sh sc1.sh 
+ 1859  cd orient_fan_fk/
+ 1860  ls
+ 1861  cat orient_fan_fk.sh 
+ 1862  nano orient_fan_fk.txt 
+ 1863  cd ..
+ 1864  ls
+ 1865  rm -rf orient_fan_fk/
+ 1866  sh sc1.sh 
+ 1867  cd ir
+ 1868  cd orient_fan_fk/
+ 1869  ls
+ 1870  cat orient_fan_fk.txt 
+ 1871  ls
+ 1872  ps -ef
+ 1873  kill -9 23098
+ 1874  kill -9 23381
+ 1875  ps -ef
+ 1876  ls
+ 1877  nano orient_fan_fk.txt 
+ 1878  ls
+ 1879  sh orient_fan_fk.sh 
+ 1880  ls
+ 1881  nano orient_fan_fk.txt 
+ 1882  ls
+ 1883  nano orient_fan_fk.sh 
+ 1884  ls
+ 1885  cat ../../flipkart/areal.sh
+ 1886  cat orient_fan_fk.sh 
+ 1887  ls
+ 1888  nano orient_fan_fk.sh 
+ 1889  ls
+ 1890  cd ..
+ 1891  ls
+ 1892  rm -rf orient_fan_fk/
+ 1893  sh sc1.sh 
+ 1894  tail test_fk/nohup.out -f
+ 1895  ls
+ 1896  mv areal.sh areal.shv2
+ 1897  mv areal.shv1  areal.sh
+ 1898  rm -rf test_fk/
+ 1899  sh sc1.sh 
+ 1900  tail -f rest_fk/nohup.out 
+ 1901  ls
+ 1902  cat sc1.sh 
+ 1903  ls /home/manish/puppeteer-scraper/flipkart/rest_fk/rest_fk.txt 
+ 1904  cat /home/manish/puppeteer-scraper/flipkart/rest_fk/rest_fk.txt 
+ 1905  cat sc1.sh 
+ 1906  ls
+ 1907  sh sc1.sh 
+ 1908  tail -f mytest_fk/nohup.out 
+ 1909  cd mytest_fk/
+ 1910  ls
+ 1911  cat mytest_fk.sh 
+ 1912  node link.js 'https://www.flipkart.com/orient-electric-ujala-prime-5-star-1200-mm-3-blade-ceiling-fan/p/itm5d28c8311bbd2?pid=FANGTBF8Z2DBZZHRs://www.flipkart.com/wow-skin-science-apple-cider-vinegar-foaming-no-parabens-sulphate-face-wash/p/itmbd81864d1c0de?pid=FCWFYFDCVEPQ3GHB' | grep -oP '"price":\s*\K\d+' | head -n 1
+ 1913  exit
+ 1914  cd /home/manish/
+ 1915  cd puppeteer-scraper/flipkart/
+ 1916  ls
+ 1917  cd fli
+ 1918  sh sc1.sh 
+ 1919  ps -ef
+ 1920  ps -ef | grep foot
+ 1921  ls
+ 1922  tmux a -t 0
+ 1923  ls
+ 1924  node source1.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'
+ 1925  ls
+ 1926  cat source1.js 
+ 1927  cp source1.js source2.js 
+ 1928  nano source2.js 
+ 1929  > source2.js 
+ 1930  nano source2.js 
+ 1931  node source2.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'
+ 1932  node source1.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'
+ 1933  node source2.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'
+ 1934  >source2.js 
+ 1935  nano source2.js 
+ 1936  node source2.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'
+ 1937  nano source3.js
+ 1938  node source3.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'
+ 1939  ls
+ 1940  nano source4.js
+ 1941  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'
+ 1942  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |grep -oP '(?<=\.com/)[^/]*'
+ 1943  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' 
+ 1944  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |grep -oP '(?<=\.com/)[^/]*'
+ 1945  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' 
+ 1946  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep boat-10000-mah-22-5-w-power-bank 
+ 1947  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=\.com/)[^/]*(?=/).*'
+ 1948  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=\.com/)[^/]*(?=/).*' | | awk '{print $1, $0}'
+ 1949  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=\.com/)[^/]*(?=/).*' |  awk '{print $1, $0}'
+ 1950  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=/)[^/]+(?=/p/)' |  awk '{print $1, $0}'
+ 1951  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=\.com/)[^/]*(?=/).*'
+ 1952  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' 
+ 1953  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=.com/)[^/]+.*' | awk '{print $0, "https://www.flipkart.com/" $0}'
+ 1954  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=.com/)[^/]+(?=/)'  | awk '{print $0, "https://www.flipkart.com/" $0}'
+ 1955  ls
+ 1956  nano command
+ 1957  ls
+ 1958  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=.com/)[^/]+(?=/)'  | awk '{print $0, "https://www.flipkart.com/" $0}'
+ 1959  ls
+ 1960  cd ..
+ 1961  ls
+ 1962  cp flipkart flipkart_urls
+ 1963  cp -r flipkart flipkart_urls
+ 1964  cd flipkart_urls/
+ 1965  ls
+ 1966  nano sc1.sh 
+ 1967  ls
+ 1968  nano sc1.sh 
+ 1969  ls
+ 1970  nano sc1.sh 
+ 1971  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=.com/)[^/]+(?=/)'  | awk '{print $0, "https://www.flipkart.com/" $0}'
+ 1972  cat command 
+ 1973  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=.com/)[^/]+(?=/)'  | awk '{print $0, "https://www.flipkart.com/" $0}'
+ 1974  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=.com/)[^/]+(?=/)' urls.txt | paste -d' ' 
+ 1975  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=.com/)[^/]+(?=/)' 
+ 1976  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=.com/)[^/]+(?=/)'  |  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' paste -d' ' - 
+ 1977  ls
+ 1978  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=.com/)[^/]+(?=/)'  
+ 1979  cat command 
+ 1980  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=.com/)[^/]+(?=/)'  | awk '{print $0, "https://www.flipkart.com/" $0}'
+ 1981  cat command 
+ 1982  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'   | awk '{print $0, "https://www.flipkart.com/" $0}' |  grep -oP '(?<=.com/)[^/]+(?=/)'
+ 1983  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'   | awk '{print $0, "https://www.flipkart.com/" $0}' 
+ 1984  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'   | awk '{print $0}' 
+ 1985  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'   | awk '{print $0}'  |  grep -oP '(?<=.com/)[^/]+(?=/)'
+ 1986  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'   | awk '{print $0}'  
+ 1987  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'   | awk '{print $0}'  | node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=.com/)[^/]+(?=/)'
+ 1988  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'   | awk '{print}'  
+ 1989  cat command 
+ 1990  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' | grep -oP '(?<=.com/)[^/]+(?=/)'  | awk '{print}'
+ 1991  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' >powerbank.txt
+ 1992  cat powerbank.txt | grep -oP '(?<=.com/)[^/]+(?=/)'  | awk '{print}'
+ 1993  cat powerbank.txt | grep -oP '(?<=.com/)[^/]+(?=/)'  | cat powerbank.txt | awk '{print}'
+ 1994  ls
+ 1995  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |awk -F'/' '{print $4, $0}' 
+ 1996  node source4 boat-20000-mah-22-5-w-power-bank https://www.flipkart.com/boat-20000-mah-22-5-w-power-bank/p/itmb6c0559ccdab6?pid=PWBGR4KGHXQCZVSQ
+ 1997  ls
+ 1998  cat sc1.sh 
+ 1999  sh sc1.sh  boat-20000-mah-22-5-w-power-bank https://www.flipkart.com/boat-20000-mah-22-5-w-power-bank/p/itmb6c0559ccdab6?pid=PWBGR4KGHXQCZVSQ
+ 2000  cd boat-20000-mah-22-5-w-power-bank_fk/
+ 2001  ls
+ 2002  tail -f nohup.out 
+ 2003  cat boat-20000-mah-22-5-w-power-bank_fk.txt 
+ 2004  ls
+ 2005  cat boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2006  ls
+ 2007  nano source4.js 
+ 2008  ls
+ 2009  nano boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2010  sh boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2011  ls
+ 2012  cat boat-20000-mah-22-5-w-power-bank_fk.txt 
+ 2013  nano boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2014  sh boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2015  ls
+ 2016  cat boat-20000-mah-22-5-w-power-bank_fk.txt 
+ 2017  cat nohup.out 
+ 2018  cat boat-20000-mah-22-5-w-power-bank_fk.txt 
+ 2019  nano boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2020  sh boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2021  ls
+ 2022  cat boat-20000-mah-22-5-w-power-bank_fk.txt 
+ 2023  nano boat-20000-mah-22-5-w-power-bank_fk.txt 
+ 2024  sh boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2025  nano boat-20000-mah-22-5-w-power-bank_fk.txt 
+ 2026  ls
+ 2027  nano boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2028  sh boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2029  nano boat-20000-mah-22-5-w-power-bank_fk.txt 
+ 2030  cat ../../flipkart/washingm_fk/washingm_fk.sh 
+ 2031  ls
+ 2032  nano boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2033  ls
+ 2034  cd ..
+ 2035  ls
+ 2036  cat sc1.sh 
+ 2037  cat /home/manish/puppeteer-scraper/flipkart_urls/areal.sh
+ 2038  ls
+ 2039  cd boat-20000-mah-22-5-w-power-bank_fk/
+ 2040  ls
+ 2041  nano boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2042  sh boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2043  ls
+ 2044  cat boat-20000-mah-22-5-w-power-bank_fk.sh 
+ 2045  cat ../../flipkart/washingm_fk/washingm_fk.sh 
+ 2046  ls
+ 2047  cd ..
+ 2048  ls
+ 2049  nano sc1.sh 
+ 2050  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |awk -F'/' '{print $4, $0}' 
+ 2051  ls
+ 2052  nano command 
+ 2053  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |awk -F'/' '{print $4, $0}' 
+ 2054  nano sc1.sh 
+ 2055  ls
+ 2056  rm -rf boat-20000-mah-22-5-w-power-bank_fk/
+ 2057  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |awk -F'/' '{print $4, $0}' 
+ 2058  sh sc1.sh triggr-10000-mah-22-5-w-pocket-size-power-bank https://www.flipkart.com/triggr-10000-mah-22-5-w-pocket-size-power-bank/p/itm5979d9ce6cf84?pid=PWBH3VUYHNBF9V6G
+ 2059  hostname -I
+ 2060  uptime 
+ 2061  ls
+ 2062  cd triggr-10000-mah-22-5-w-pocket-size-power-bank_fk/
+ 2063  ls
+ 2064  tail nohup.out 
+ 2065  cat triggr-10000-mah-22-5-w-pocket-size-power-bank_fk.txt 
+ 2066  nano triggr-10000-mah-22-5-w-pocket-size-power-bank_fk.txt 
+ 2067  nano triggr-10000-mah-22-5-w-pocket-size-power-bank_fk.sh 
+ 2068  cat triggr-10000-mah-22-5-w-pocket-size-power-bank_fk.sh 
+ 2069  (node link.js 'https://www.flipkart.com/triggr-10000-mah-22-5-w-pocket-size-power-bank/p/itm5979d9ce6cf84?pid=PWBH3VUYHNBF9V6G' | grep -oP '"price":\s*\K\d+' | head -n 1
+ 2070  node link.js 'https://www.flipkart.com/triggr-10000-mah-22-5-w-pocket-size-power-bank/p/itm5979d9ce6cf84?pid=PWBH3VUYHNBF9V6G' | grep -oP '"price":\s*\K\d+' | head -n 1
+ 2071  node srouce4 'https://www.flipkart.com/triggr-10000-mah-22-5-w-pocket-size-power-bank/p/itm5979d9ce6cf84?pid=PWBH3VUYHNBF9V6G' | grep -oP '"price":\s*\K\d+' | head -n 1
+ 2072  node srouce4.js 'https://www.flipkart.com/triggr-10000-mah-22-5-w-pocket-size-power-bank/p/itm5979d9ce6cf84?pid=PWBH3VUYHNBF9V6G' | grep -oP '"price":\s*\K\d+' | head -n 1
+ 2073  ls
+ 2074  cat source4.js 
+ 2075  node source4.js 'https://www.flipkart.com/triggr-10000-mah-22-5-w-pocket-size-power-bank/p/itm5979d9ce6cf84?pid=PWBH3VUYHNBF9V6G' | grep -oP '"price":\s*\K\d+' | head -n 1
+ 2076  ls
+ 2077  node source4.js 'https://www.flipkart.com/triggr-10000-mah-22-5-w-pocket-size-power-bank/p/itm5979d9ce6cf84?pid=PWBH3VUYHNBF9V6G' 
+ 2078  cd ..
+ 2079  ls
+ 2080  nano sc1.sh 
+ 2081  rm -rf triggr-10000-mah-22-5-w-pocket-size-power-bank_fk/
+ 2082  ls
+ 2083  node source4.js 'https://www.flipkart.com/triggr-10000-mah-22-5-w-pocket-size-power-bank/p/itm5979d9ce6cf84?pid=PWBH3VUYHNBF9V6G' 
+ 2084  sh sc1.sh triggr-10000-mah-22-5-w-pocket-size-power-bank https://www.flipkart.com/triggr-10000-mah-22-5-w-pocket-size-power-bank/p/itm5979d9ce6cf84?pid=PWBH3VUYHNBF9V6G
+ 2085  cd triggr-10000-mah-22-5-w-pocket-size-power-bank_fk/
+ 2086  ls
+ 2087  cat triggr-10000-mah-22-5-w-pocket-size-power-bank_fk.txt 
+ 2088  cat triggr-10000-mah-22-5-w-pocket-size-power-bank_fk.sh 
+ 2089  ls
+ 2090  sh triggr-10000-mah-22-5-w-pocket-size-power-bank_fk.sh 
+ 2091  ls
+ 2092  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |awk -F'/' '{print $4, $0}' 
+ 2093  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'
+ 2094  cd .
+ 2095  cd ..
+ 2096  ls
+ 2097  cd ../flipkart
+ 2098  ls
+ 2099  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |awk -F'/' '{print $4, $0}' 
+ 2100  ls
+ 2101  cd ..
+ 2102  ls
+ 2103  cd flipkart_urls/
+ 2104  ls
+ 2105  cd ..
+ 2106  ls
+ 2107  cd flipkart
+ 2108  ls
+ 2109  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |awk -F'/' '{print $4, $0}' 
+ 2110  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |awk -F'/' '{print $4, $0}'  >>allurl.txt
+ 2111  nano allurl.txt 
+ 2112  awk -F'/' '{print "sh sc1.sh", $4, $0}' allurl.txt 
+ 2113  ls
+ 2114  tmux 
+ 2115  awk -F'/' '{print "sh sc1.sh", $4, $0}' allurl.txt 
+ 2116  sh sc1.sh iqoniqe-25000-mah-22-w-compact-pocket-size-power-bank iqoniqe-25000-mah-22-w-compact-pocket-size-power-bank https://www.flipkart.com/iqoniqe-25000-mah-22-w-compact-pocket-size-power-bank/p/itm831a2e7e07ea6?pid=PWBGYJGFFGFRUTU2
+ 2117  ls
+ 2118  cd ..
+ 2119  ls
+ 2120  cd flipkart_urls/
+ 2121  ls
+ 2122  sh sc1.sh iqoniqe-25000-mah-22-w-compact-pocket-size-power-bank iqoniqe-25000-mah-22-w-compact-pocket-size-power-bank https://www.flipkart.com/iqoniqe-25000-mah-22-w-compact-pocket-size-power-bank/p/itm831a2e7e07ea6?pid=PWBGYJGFFGFRUTU2
+ 2123  cd iqoniqe-25000-mah-22-w-compact-pocket-size-power-bank_fk/
+ 2124  ls
+ 2125  cat iqoniqe-25000-mah-22-w-compact-pocket-size-power-bank_fk.sh 
+ 2126  ls
+ 2127  cat url 
+ 2128  cd ../
+ 2129  ls
+ 2130  cd ..
+ 2131  ls
+ 2132  cd flipkart
+ 2133  ls
+ 2134  awk -F'/' '{print "sh sc1.sh", $4, $0}' allurl.txt 
+ 2135  cd ../flipkart
+ 2136  cd ../flipkart_urls/
+ 2137  ls
+ 2138  cat sc1.sh 
+ 2139  ls
+ 2140  cp ../flipkart/source4.js .
+ 2141  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |awk -F'/' '{print $4, $0}' 
+ 2142  ls
+ 2143  sh sc1 binori-12000-mah-8-w-compact-pocket-size-power-bank https://www.flipkart.com/binori-12000-mah-8-w-compact-pocket-size-power-bank/p/itm853475535bf80?pid=PWBH4WHYQ4D4ZM4E
+ 2144  sh sc1.sh binori-12000-mah-8-w-compact-pocket-size-power-bank https://www.flipkart.com/binori-12000-mah-8-w-compact-pocket-size-power-bank/p/itm853475535bf80?pid=PWBH4WHYQ4D4ZM4E
+ 2145  cd binori-12000-mah-8-w-compact-pocket-size-power-bank_fk/
+ 2146  ls
+ 2147  cat binori-12000-mah-8-w-compact-pocket-size-power-bank_fk.txt 
+ 2148  sh binori-12000-mah-8-w-compact-pocket-size-power-bank_fk.sh 
+ 2149  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |awk -F'/' '{print $4, $0}'  | awk -F'/' '{print "sh sc1.sh", $4, $0}'
+ 2150  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |awk -F'/' '{print "sh sc1.sh", $4, $0}'
+ 2151  sh sc1.sh binori-12000-mah-8-w-compact-pocket-size-power-bank https://www.flipkart.com/binori-12000-mah-8-w-compact-pocket-size-power-bank/p/itm853475535bf80?pid=PWBH4WHYQ4D4ZM4E
+ 2152  ls
+ 2153  cd ..
+ 2154  ls
+ 2155  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |awk -F'/' '{print "sh sc1.sh", $4, $0}'
+ 2156  node source4.js 'https://www.flipkart.com/search?q=powerbank&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off' |awk -F'/' '{print "sh sc1.sh", $4, $0}' >>collected_urls.txt
+ 2157  ls
+ 2158  awk -F'/' '{print "sh sc1.sh", $4, $0}' collected_urls.txt 
+ 2159  awk -F'/' '{print "sh sc1.sh", $4, $0}' collected_urls.txt | cut -d' ' -f1-3
+ 2160  sed 's|https://www.flipkart.com/\([^/]*\)/|sh sc1.sh \1 |' collected_urls.txt 
+ 2161  perl -pe 's/^/sh sc1.sh /'  collected_urls.txt 
+ 2162  sed '/^sh sc1.sh /!s/^/sh sc1.sh /' collected_urls.txt 
+ 2163  cat collected_urls.txt 
+ 2164  ls
+ 2165  tmux ls
+ 2166  tmux a -t 1
+ 2167  history 
+ 2168  history  >> hostory

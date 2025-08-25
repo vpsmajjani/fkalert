@@ -1,0 +1,71 @@
+Airline    Flight(s)          DepTime  Duration  Arrival  Price     Discount  Tax  
+Akasa Air  QP-1194            04:05    1h 40m    05:45    ₹4,852  ₹369    ₹40
+Air India  IX-2696,IX-1241    17:10    4h 25m    21:35    ₹4,999  ₹375    ₹40
+Air India  AI-2846            08:25    2h 5m     10:30    ₹5,545  ₹400    ₹40
+Air India  AI-2604            09:10    11:10     ₹5,635 ₹394    ₹40     Air India
+Air India  AI-2840            22:45    2h 5m     00:50    ₹5,958  ₹417    ₹40
+Akasa Air  QP-1375            08:10    1h 45m    09:55    ₹6,001  ₹420    ₹40
+Air India  AI-2630            13:45    2h 5m     15:50    ₹6,519  ₹456    ₹40
+Air India  AI-2854            17:55    2h 10m    20:05    ₹6,519  ₹456    ₹40
+Air India  AI-2645            21:25    2h 10m    23:35    ₹6,519  ₹456    ₹40
+Air India  IX-2792,IX-1241    15:55    5h 40m    21:35    ₹6,830  ₹478    ₹40
+Air India  AI-2864            19:45    2h 5m     21:50    ₹6,910  ₹483    ₹40
+Akasa Air  QP-1366            21:00    1h 40m    22:40    ₹7,121  ₹498    ₹40
+Air India  AI-525,AI-2822     05:40    6h 15m    11:55    ₹7,429  ₹520    ₹40
+Air India  AI-2852            10:30    2h 5m     12:35    ₹7,458  ₹522    ₹40
+Air India  AI-2610            19:20    2h 10m    21:30    ₹7,587  ₹531    ₹40
+Air India  AI-2850            20:25    2h 10m    22:35    ₹7,587  ₹531    ₹40
+Akasa Air  QP-1736            03:25    1h 50m    05:15    ₹7,888  ₹552    ₹40
+Air India  AI-525,AI-571      05:40    4h 20m    10:00    ₹8,049  ₹563    ₹40
+Air India  AI-2635,AI-2540    05:30    5h 25m    10:55    ₹8,855  ₹619    ₹40
+Air India  AI-2402            06:40    2h 5m     08:45    ₹9,149  ₹640    ₹40
+Air India  IX-2708,IX-1236    18:55    09:55     ₹9,317 ₹652    ₹40     Air India
+Air India  AI-9574,AI-2445    09:05    6h 5m     15:10    ₹9,369  ₹655    ₹40
+Air India  AI-9776,AI-571     04:15    5h 45m    10:00    ₹9,443  ₹661    ₹40
+Air India  IX-1552,IX-1024    04:55    11h 30m   16:25    ₹9,656  ₹675    ₹40
+Air India  AI-9776,AI-2828    04:15    4h 45m    09:00    ₹9,810  ₹686    ₹40
+Air India  AI-523,AI-2534     09:20    4h 45m    14:05    ₹10,598 ₹741    ₹40
+Air India  AI-9455,AI-692     09:30    4h 50m    14:20    ₹12,244 ₹857    ₹40
+Air India  AI-9453,AI-624     07:15    5h 15m    12:30    ₹12,244 ₹857    ₹40
+Air India  AI-519,AI-2699     20:10    4h 5m     00:15    ₹13,246 ₹927    ₹40
+Air India  AI-523,AI-2445     09:20    5h 50m    15:10    ₹13,246 ₹927    ₹40
+Air India  AI-2887,AI-2447    13:35    5h 35m    19:10    ₹13,259 ₹928    ₹40
+Air India  AI-9959,AI-626     17:50    6h 40m    00:30    ₹15,250 ₹1067   ₹40
+Air India  AI-2808,AI-2993    08:00    15:00     ₹15,284 ₹1069   ₹40     Air India
+Air India  AI-2808,AI-2945    08:00    5h 55m    13:55    ₹15,421 ₹1079   ₹40
+Air India  AI-2414,AI-2927    05:45    6h 10m    11:55    ₹15,874 ₹1111   ₹40
+Air India  AI-9445,AI-2742    04:15    8h 20m    12:35    ₹15,874 ₹1111   ₹40
+Air India  AI-2406,AI-2933    11:10    6h 35m    17:45    ₹16,242 ₹1136   ₹40
+Air India  AI-2810,AI-2425    06:40    6h 40m    13:20    ₹16,242 ₹1136   ₹40
+Air India  AI-2804,AI-2420    10:20    17:20     ₹16,242 ₹1136   ₹40     Air India
+Air India  AI-2414,AI-2425    05:45    7h 35m    13:20    ₹16,242 ₹1136   ₹40
+Air India  AI-2804,AI-2592,AI-2592 10:20    7h 55m    18:15    ₹16,242 ₹1136   ₹40
+Air India  AI-2810,AI-2993    06:40    8h 20m    15:00    ₹16,242 ₹1136   ₹40
+Air India  AI-9478,AI-2420    10:25    6h 55m    17:20    ₹16,371 ₹1145   ₹40
+Air India  AI-9478,AI-2933    10:25    7h 20m    17:45    ₹16,371 ₹1145   ₹40
+Air India  AI-9478,AI-2592,AI-2592 10:25    7h 50m    18:15    ₹16,371 ₹1145   ₹40
+Air India  AI-2810,AI-2945    06:40    7h 15m    13:55    ₹16,378 ₹1146   ₹40
+Air India  AI-2406,AI-2941    11:10    7h 50m    19:00    ₹16,782 ₹1174   ₹40
+Air India  AI-2804,AI-2441    10:20    6h 10m    16:30    ₹16,798 ₹1175   ₹40
+Air India  AI-2654,AI-2425    07:00    6h 20m    13:20    ₹17,201 ₹1204   ₹40
+Air India  AI-2654,AI-2993    07:00    15:00     ₹17,201 ₹1204   ₹40     Air India
+Air India  AI-2654,AI-2945    07:00    6h 55m    13:55    ₹17,338 ₹1213   ₹40
+Air India  AI-428,AI-2955     14:25    5h 50m    20:15    ₹17,395 ₹1217   ₹40
+Air India  AI-2868,AI-2420    09:45    7h 35m    17:20    ₹17,554 Air India AI-2868
+Air India  AI-2868,AI-2592,AI-2592 09:45    8h 30m    18:15    ₹17,554 ₹1228   ₹40
+Air India  AI-2511,AI-2981    15:30    7h 50m    23:20    ₹17,845 Air India AI-2868
+Air India  AI-2511,AI-2433    15:30    8h 25m    23:55    ₹18,172 Air India AI-2511
+Air India  AI-2418,AI-2981    16:00    7h 20m    23:20    ₹18,804 Air India AI-2418
+Air India  AI-428,AI-2805     14:25    22:25     ₹18,942 Air India AI-2418   AI-2433
+Air India  AI-2511,AI-9484    15:30    8h 10m    23:40    ₹19,297 Air India AI-2511
+Air India  IX-2973,IX-1241    13:25    8h 10m    21:35    ₹19,539 Air India IX-2702
+Air India  AI-2418,AI-2957    16:00    7h 5m     23:05    ₹19,644 Air India AI-2652
+Air India  AI-2802,AI-2439    18:45    6h 40m    01:25    ₹19,865 Air India AI-2820
+Air India  AI-2802,AI-2437    18:45    6h 10m    00:55    ₹20,045 Air India AI-2820
+Air India  AI-2418,AI-9484    16:00    7h 40m    23:40    ₹20,256 Air India AI-2820
+Air India  AI-428,AI-2985     14:25    7h 35m    22:00    ₹20,328 Air India AI-2418
+Air India  AI-2820,AI-2433    17:45    6h 10m    23:55    ₹20,640 Air India AI-2802
+Air India  AI-2820,AI-9486    17:45    7h 40m    01:25    ₹20,699 Air India AI-2511
+Air India  AI-2414,AI-2995    05:45    6h 55m    12:40    ₹21,040 Air India AI-9480
+Air India  AI-2416,AI-441     13:30    6h 35m    20:05    ₹23,019 Air India AI-2416
+Air India  AI-9482,AI-2963    04:30    6h 55m    11:25    ₹27,125 Air India AI-2814

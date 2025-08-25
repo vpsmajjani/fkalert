@@ -1,0 +1,40 @@
+#echo "enter your product name: "
+
+#read product
+#proudct= $1 | grep -oP '(?<=\.com/)[^/]+'
+#product=$(echo $1 | grep -oP '(?<=\.com/)[^/]+')
+current_path=`pwd`
+product=`echo "$1" | grep -oP '(?<=\.com/)[^/]+'`
+#pwd is /home/manish/puppeteer-scraper/flipkart_urls/bulkproduct
+
+second=`echo $(date +%s) | tail -c 4`
+
+mkdir $current_path/products/$product\_fk_$second
+
+cp $current_path/link.js /home/manish/puppeteer-scraper/flipkart_urls/bulkproduct/products/$product\_fk_$second/link.js
+
+cp $current_path/areal.sh /home/manish/puppeteer-scraper/flipkart_urls/bulkproduct/products/$product\_fk_$second/
+
+mv $current_path/products/$product\_fk_$second/areal.sh /home/manish/puppeteer-scraper/flipkart_urls/bulkproduct/products/$product\_fk_$second/$product\_fk_$second.sh
+
+#echo "1" >> /home/manish/puppeteer-scraper/flipkart/$product\_fk/$product\_fk.txt
+
+#enter link
+#echo "Enter your link :"
+#read product_url
+
+sed -i "s|http|$1|g" $current_path/products/$product\_fk_$second/$product\_fk_$second.sh
+echo $1 >> $current_path/products/$product\_fk_$second/url
+node link.js $1 | grep -oP '"price":\s*\K\d+' | head -n 1 >> $current_path/products//$product\_fk_$second/price_$product\_fk_$second.txt
+c_date=$(date "+%Y-%m-%d_%H:%M:%S")
+
+price=`cat $current_path/products/$product\_fk_$second/price_$product\_fk_$second.txt`
+echo $product\_fk_$second, $c_date, $price >> $current_path/allpricehistory.txt
+
+cd  $current_path/products/$product\_fk_$second
+echo  $current_path/products/$product\_fk_$second/
+
+echo "7 * * * * sh  $current_path/products/$product\_fk_$second/$product\_fk_$second.sh >>/tmp/$product\_fk_$second.txt 2>&1"
+echo "cd $current_path/products/$product\_fk_$second/" >> $current_path/bulkshscripts.sh
+echo "sh $current_path/products/$product\_fk_$second/$product\_fk_$second.sh" >> $current_path/bulkshscripts.sh
+nohup sh $product\_fk_$second.sh &

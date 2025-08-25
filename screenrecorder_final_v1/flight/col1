@@ -1,0 +1,38 @@
+#!/bin/bash
+
+# Input file
+input="flights.txt"
+
+# Output CSV
+output="flights_clean.csv"
+
+# Write CSV header
+echo "Airline_Flight_Nos,Departure,Duration,Arrival,Base_Price,Tax,Fee" > "$output"
+
+# Process each line
+while IFS= read -r line; do
+  # Clean up extra whitespace
+  clean_line=$(echo "$line" | tr -s ' ')
+
+  # Remove trailing "Air India <FlightNo>" if present
+  clean_line=$(echo "$clean_line" | sed -E 's/Air India AI-[0-9]+$//')
+
+  # Extract components
+  airline_flights=$(echo "$clean_line" | awk '{print $1, $2}')
+  departure=$(echo "$clean_line" | awk '{print $3}')
+  duration=$(echo "$clean_line" | awk '{print $4}')
+  arrival=$(echo "$clean_line" | awk '{print $5}')
+  price=$(echo "$clean_line" | awk '{print $6}')
+  tax=$(echo "$clean_line" | awk '{print $7}')
+  fee=$(echo "$clean_line" | awk '{print $8}')
+
+  # Fill empty fields with "NA"
+  [ -z "$tax" ] && tax="NA"
+  [ -z "$fee" ] && fee="NA"
+
+  # Output formatted line
+  echo "$airline_flights,$departure,$duration,$arrival,$price,$tax,$fee" >> "$output"
+done < "$input"
+
+echo "Cleaned data saved to $output"
+

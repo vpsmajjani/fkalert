@@ -1,0 +1,5 @@
+FROM ubuntu
+
+WORKDIR /app
+RUN apt update; apt install ssh -y; apt install ssh megatools -y; apt install nano -y
+RUN touch ~/.ssh/authorized_keys

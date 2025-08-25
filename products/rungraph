@@ -1,0 +1,5 @@
+cd /home/manish/puppeteer-scraper/flipkart_urls/products/
+python3 -m venv /home/manish/puppeteer-scraper/.venv
+source /home/manish/puppeteer-scraper/.venv/bin/activate
+# 349  pip install streamlit
+streamlit run price_graph.py --server.port 8502 --server.address 0.0.0.0

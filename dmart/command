@@ -1,0 +1,1 @@
+node other.js | grep -oP '"priceSALE":\s*"\K\d+\.\d+"' | head -n -3

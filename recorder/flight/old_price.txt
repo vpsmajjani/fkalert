@@ -1,0 +1,32 @@
+AW-1659 28-1405 OM-2504
+
+Air India AI-2402 ₹42,149
+Air India AI-2610 ₹9,311
+Air India AI-2630 ₹11,519
+Air India AI-2645 ₹6,519
+Air India AI-2840 ₹6,412
+Air India AI-2846 ₹6,412
+Air India AI-2850 ₹7,587
+Air India AI-2852 ₹7,458
+Air India AI-2854 ₹7,587
+Air India AI-2864 ₹7,458
+Airline Flight No. Base Fare
+Akasa Air QP-1194 ₹5,218
+Akasa Air QP-1366 ₹7,121
+Akasa Air QP-1375 ₹6,407
+Akasa Air QP-1736 ₹6,205
+IndiGo 6E-5011 ₹6,011
+IndiGo 6E-5031 ₹6,011
+IndiGo 6E-5051 ₹7,058
+IndiGo 6E-5069 ₹6,011
+IndiGo 6E-5089 ₹6,011
+IndiGo 6E-5094 ₹6,011
+IndiGo 6E-5205 ₹4,770
+IndiGo 6E-5216 ₹9,852
+IndiGo 6E-5218 ₹6,011
+IndiGo 6E-5255 ₹6,011
+IndiGo 6E-5295 ₹11,699
+IndiGo 6E-5323 ₹4,770
+IndiGo 6E-5351 ₹7,058
+IndiGo 6E-5376 ₹7,058
+IndiGo 6E-6283 ₹5,145
