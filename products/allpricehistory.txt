@@ -785,3 +785,13 @@ price_crompton-75-l-desert-air-cooler_AICEQGBHB75HSWGG&otracker=wishlist.txt, 20
 price_ariel-top-load-fresh-liquid-detergent_LDGGKZAVW2GBJQ6W.txt, 2025-08-24 18:29:11, 472 4.5
 price_kesh-king-ayurvedic-anti-hairfall-shampoo-enriched-aloe-21-herbs_SMPGEA3W6VFBYZ8B.txt, 2025-08-24 19:10:36, 427 4.3
 price_sandisk-e61-1050-mbs-window-mac-os-android-portable-type-c-enabled-5-y-warranty-usb-3-2-1-tb-wired-external-solid-state-drive-ssd_ACCGYSPEYXV2EUPW.txt, 2025-08-25 07:22:19, 10459 4.5
+price_beetel-x70-cordless-landline-phone_LANEH8G46KS9CSND.txt, 2025-08-25 11:41:29, 2400 4.1
+price_sandisk-e61-1050-mbs-window-mac-os-android-portable-type-c-enabled-5-y-warranty-usb-3-2-1-tb-wired-external-solid-state-drive-ssd_ACCGYSPEYXV2EUPW.txt, 2025-08-25 12:44:06, 10799 4.5
+price_ariel-top-load-fresh-liquid-detergent_LDGGKZAVW2GBJQ6W.txt, 2025-08-25 17:40:51, 538 4.5
+price_ariel-top-load-fresh-liquid-detergent_LDGGKZAVW2GBJQ6W.txt, 2025-08-26 05:36:14, 472 4.5
+price_portronics-toad-5-transparent-wireless-mouse-bluetooth-2-4-ghz-rechargeable-rgb-light-ambidextrous-optical-mouse_ACCH2GB9HZH9YJK8.txt, 2025-08-26 05:38:57, 761 4.4
+price_ariel-top-load-fresh-liquid-detergent_LDGGKZAVW2GBJQ6W.txt, 2025-08-26 07:35:52, 538 4.5
+price_samsung-25-w-gan-3-wall-charger-mobile_ACCHYG6CVZEARUWZ.txt, 2025-08-26 07:38:48, 999 4.5
+price_wakefit-solatio-fabric-3-seater-sofa_SOFGJVQY5RXF5HCA.txt, 2025-08-26 07:39:52, 14039 4.4
+price_beetel-x70-cordless-landline-phone_LANEH8G46KS9CSND.txt, 2025-08-26 09:36:40, 2494 4.1
+price_tresemme-hairfall-defense-keratin-fillers-shampoo_SMPFC62BNCVZHZER.txt, 2025-08-26 09:39:26, 759 4.4
