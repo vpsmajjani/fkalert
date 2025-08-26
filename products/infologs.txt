@@ -8922,3 +8922,14 @@ Status is the same for price_tresemme-keratin-smooth-shampoo_SMPFC62BFAN9MYGJ.tx
 Status is the same for price_urbn-20-w-gan-3-wall-charger-mobile_ACCGWKD6TZJF4WGR.txt price @ 499 and rating 4.2 2025-08-26 10:39:36
 Status is the same for price_vivo-t4x-5g-pronto-purple-256-gb_MOBH9JUS4GGGPJHJ.txt price @ 16999 and rating 4.5 2025-08-26 10:39:43
 Status is the same for price_wakefit-solatio-fabric-3-seater-sofa_SOFGJVQY5RXF5HCA.txt price @ 14039 and rating 4.4 2025-08-26 10:39:52
+Status is the same for price_arctic-fox-pureview-transparent-wireless-bluetooth-rechargeable-mouse-optical-gaming_ACCGVUZSNYH8PS2G.txt price @ 599 and rating 4.6 2025-08-26 11:35:08
+Status is the same for price_ariel-top-load-fresh-liquid-detergent_LDGGKZAVW2GBJQ6W.txt price @ 538 and rating 4.5 2025-08-26 11:35:40
+Status is the same for price_ariel-top-load-fresh-liquid-detergent_LDGGXAU7RW9P3HHT.txt price @ 584 and rating 4.4 2025-08-26 11:35:48
+Status is the same for price_arra-remo-fabric-3-seater-sofa_SOFH7Z9GEPXNWUYY.txt price @ 11999 and rating 4 2025-08-26 11:35:56
+Price not found for price_avita-domus-10w-led-5ch-rgb-smart-bulb_LLSGF5H4PCYD7HUS.txt on 2025-08-26 11:36:03
+Status is the same for price_bajaj-mx-3-neo-1250-w-steam-iron_IRNGBWZGWSBPDZAM.txt price @ 977 and rating 4.1 2025-08-26 11:36:10
+Status is the same for price_beetel-x70-cordless-landline-phone_LANEH8G46KS9CSND.txt price @ 2494 and rating 4.1 2025-08-26 11:36:18
+Status is the same for price_boat-rockerz-110-40-hrs-playback-enx-technology-beast-mode-asap-charge-bluetooth_ACCGS9ZMGQZH4FZF.txt price @ 899 and rating 4.1 2025-08-26 11:36:27
+Status is the same for price_cmf-nothing-phone-1-black-128-gb_MOBHYBQTSE9EKVBT.txt price @ 17999 and rating 4.4 2025-08-26 11:36:34
+Status is the same for price_cmf-nothing-phone-2-pro-black-256-gb_MOBHAUHAY7BY7PT5.txt price @ 20999 and rating 4.4 2025-08-26 11:36:42
+Status is the same for price_cmf-nothing-phone-2-pro-light-green-128-gb_MOBHAUHADASAEX2G.txt price @ 18999 and rating 4.4 2025-08-26 11:36:50
