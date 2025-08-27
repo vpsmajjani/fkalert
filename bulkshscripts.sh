@@ -522,3 +522,7 @@ cd /home/manish/puppeteer-scraper/flipkart_urls/products/urbn-20-w-gan-3-wall-ch
 sh /home/manish/puppeteer-scraper/flipkart_urls/products/urbn-20-w-gan-3-wall-charger-mobile_ACCGWKD6TZJF4WGR/urbn-20-w-gan-3-wall-charger-mobile_ACCGWKD6TZJF4WGR.sh
 cd /home/manish/puppeteer-scraper/flipkart_urls/products/lenovo-chromebook-duet-11m889-mediatek-kompanio-838-8-gb-128-gb-emmc-storage-chrome-os_COMHBCAFZGVNEDTK&fm=organic&ppt=dynamic&ppn=dynamic&ssid=k72kthd0yo0000001755169469149/
 sh /home/manish/puppeteer-scraper/flipkart_urls/products/lenovo-chromebook-duet-11m889-mediatek-kompanio-838-8-gb-128-gb-emmc-storage-chrome-os_COMHBCAFZGVNEDTK&fm=organic&ppt=dynamic&ppn=dynamic&ssid=k72kthd0yo0000001755169469149/lenovo-chromebook-duet-11m889-mediatek-kompanio-838-8-gb-128-gb-emmc-storage-chrome-os_COMHBCAFZGVNEDTK&fm=organic&ppt=dynamic&ppn=dynamic&ssid=k72kthd0yo0000001755169469149.sh
+cd /home/manish/puppeteer-scraper/flipkart_urls/products/cmf-nothing-33-w-quick-charge-3-wall-charger-mobile_ACCH28GD4NZMZFAE/
+sh /home/manish/puppeteer-scraper/flipkart_urls/products/cmf-nothing-33-w-quick-charge-3-wall-charger-mobile_ACCH28GD4NZMZFAE/cmf-nothing-33-w-quick-charge-3-wall-charger-mobile_ACCH28GD4NZMZFAE.sh
+cd /home/manish/puppeteer-scraper/flipkart_urls/products/urbn-10000-mah-22-5-w-power-bank_PWBHBCHYXH7ZTXHH/
+sh /home/manish/puppeteer-scraper/flipkart_urls/products/urbn-10000-mah-22-5-w-power-bank_PWBHBCHYXH7ZTXHH/urbn-10000-mah-22-5-w-power-bank_PWBHBCHYXH7ZTXHH.sh
