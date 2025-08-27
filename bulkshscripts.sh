@@ -526,3 +526,5 @@ cd /home/manish/puppeteer-scraper/flipkart_urls/products/cmf-nothing-33-w-quick-
 sh /home/manish/puppeteer-scraper/flipkart_urls/products/cmf-nothing-33-w-quick-charge-3-wall-charger-mobile_ACCH28GD4NZMZFAE/cmf-nothing-33-w-quick-charge-3-wall-charger-mobile_ACCH28GD4NZMZFAE.sh
 cd /home/manish/puppeteer-scraper/flipkart_urls/products/urbn-10000-mah-22-5-w-power-bank_PWBHBCHYXH7ZTXHH/
 sh /home/manish/puppeteer-scraper/flipkart_urls/products/urbn-10000-mah-22-5-w-power-bank_PWBHBCHYXH7ZTXHH/urbn-10000-mah-22-5-w-power-bank_PWBHBCHYXH7ZTXHH.sh
+cd /home/manish/puppeteer-scraper/flipkart_urls/products/cmf-nothing-65-w-gan-3-port-mobile-charger_ACCGPU7G7SSEYCGS/
+sh /home/manish/puppeteer-scraper/flipkart_urls/products/cmf-nothing-65-w-gan-3-port-mobile-charger_ACCGPU7G7SSEYCGS/cmf-nothing-65-w-gan-3-port-mobile-charger_ACCGPU7G7SSEYCGS.sh
