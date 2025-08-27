@@ -528,3 +528,7 @@ cd /home/manish/puppeteer-scraper/flipkart_urls/products/urbn-10000-mah-22-5-w-p
 sh /home/manish/puppeteer-scraper/flipkart_urls/products/urbn-10000-mah-22-5-w-power-bank_PWBHBCHYXH7ZTXHH/urbn-10000-mah-22-5-w-power-bank_PWBHBCHYXH7ZTXHH.sh
 cd /home/manish/puppeteer-scraper/flipkart_urls/products/cmf-nothing-65-w-gan-3-port-mobile-charger_ACCGPU7G7SSEYCGS/
 sh /home/manish/puppeteer-scraper/flipkart_urls/products/cmf-nothing-65-w-gan-3-port-mobile-charger_ACCGPU7G7SSEYCGS/cmf-nothing-65-w-gan-3-port-mobile-charger_ACCGPU7G7SSEYCGS.sh
+cd /home/manish/puppeteer-scraper/flipkart_urls/products/mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPG7QVXTXGX9FSB/
+sh /home/manish/puppeteer-scraper/flipkart_urls/products/mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPG7QVXTXGX9FSB/mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPG7QVXTXGX9FSB.sh
+cd /home/manish/puppeteer-scraper/flipkart_urls/products/mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPGYCZY2GVN8PTD/
+sh /home/manish/puppeteer-scraper/flipkart_urls/products/mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPGYCZY2GVN8PTD/mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPGYCZY2GVN8PTD.sh

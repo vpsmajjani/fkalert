@@ -704,3 +704,5 @@ price_beetel-x70-cordless-landline-phone_LANEH8G46KS9CSND.txt, 2025-08-27 06:36:
 price_cmf-nothing-33-w-quick-charge-3-wall-charger-mobile_ACCH28GD4NZMZFAE.txt, 2025-08-27 18:38:21, 1299 4.4
 price_urbn-10000-mah-22-5-w-power-bank_PWBHBCHYXH7ZTXHH.txt, 2025-08-27 18:44:56, 699 4.2
 price_cmf-nothing-65-w-gan-3-port-mobile-charger_ACCGPU7G7SSEYCGS.txt, 2025-08-27 19:07:43, 2669 4.5
+price_mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPG7QVXTXGX9FSB.txt, 2025-08-27 19:16:07, 476 4.1
+price_mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPGYCZY2GVN8PTD.txt, 2025-08-27 19:35:51, 489 4.1

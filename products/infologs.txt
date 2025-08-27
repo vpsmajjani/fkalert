@@ -9614,3 +9614,16 @@ Status is the same for price_vivo-t4x-5g-pronto-purple-256-gb_MOBH9JUS4GGGPJHJ.t
 Status is the same for price_wakefit-solatio-fabric-3-seater-sofa_SOFGJVQY5RXF5HCA.txt price @ 14039 and rating 4.4 2025-08-27 18:40:01
 Initial price recorded for price_urbn-10000-mah-22-5-w-power-bank_PWBHBCHYXH7ZTXHH.txt: 699 on 2025-08-27 18:44:56
 Initial price recorded for price_cmf-nothing-65-w-gan-3-port-mobile-charger_ACCGPU7G7SSEYCGS.txt: 2669 on 2025-08-27 19:07:43
+Initial price recorded for price_mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPG7QVXTXGX9FSB.txt: 476 on 2025-08-27 19:16:07
+Status is the same for price_arctic-fox-pureview-transparent-wireless-bluetooth-rechargeable-mouse-optical-gaming_ACCGVUZSNYH8PS2G.txt price @ 599 and rating 4.6 2025-08-27 19:35:27
+Initial price recorded for price_mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPGYCZY2GVN8PTD.txt: 489 on 2025-08-27 19:35:51
+Status is the same for price_ariel-top-load-fresh-liquid-detergent_LDGGKZAVW2GBJQ6W.txt price @ 538 and rating 4.5 2025-08-27 19:35:55
+Status is the same for price_ariel-top-load-fresh-liquid-detergent_LDGGXAU7RW9P3HHT.txt price @ 584 and rating 4.4 2025-08-27 19:36:04
+Status is the same for price_arra-remo-fabric-3-seater-sofa_SOFH7Z9GEPXNWUYY.txt price @ 11999 and rating 4 2025-08-27 19:36:12
+Price not found for price_avita-domus-10w-led-5ch-rgb-smart-bulb_LLSGF5H4PCYD7HUS.txt on 2025-08-27 19:36:20
+Status is the same for price_bajaj-mx-3-neo-1250-w-steam-iron_IRNGBWZGWSBPDZAM.txt price @ 977 and rating 4.1 2025-08-27 19:36:27
+Status is the same for price_beetel-x70-cordless-landline-phone_LANEH8G46KS9CSND.txt price @ 2599 and rating 4.1 2025-08-27 19:36:34
+Status is the same for price_boat-rockerz-110-40-hrs-playback-enx-technology-beast-mode-asap-charge-bluetooth_ACCGS9ZMGQZH4FZF.txt price @ 899 and rating 4.1 2025-08-27 19:36:41
+Status is the same for price_cmf-nothing-33-w-quick-charge-3-wall-charger-mobile_ACCH28GD4NZMZFAE.txt price @ 1299 and rating 4.4 2025-08-27 19:36:49
+Status is the same for price_cmf-nothing-65-w-gan-3-port-mobile-charger_ACCGPU7G7SSEYCGS.txt price @ 2669 and rating 4.5 2025-08-27 19:36:57
+Status is the same for price_cmf-nothing-phone-1-black-128-gb_MOBHYBQTSE9EKVBT.txt price @ 17999 and rating 4.4 2025-08-27 19:37:04
