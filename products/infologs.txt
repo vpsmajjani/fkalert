@@ -9627,3 +9627,5 @@ Status is the same for price_boat-rockerz-110-40-hrs-playback-enx-technology-bea
 Status is the same for price_cmf-nothing-33-w-quick-charge-3-wall-charger-mobile_ACCH28GD4NZMZFAE.txt price @ 1299 and rating 4.4 2025-08-27 19:36:49
 Status is the same for price_cmf-nothing-65-w-gan-3-port-mobile-charger_ACCGPU7G7SSEYCGS.txt price @ 2669 and rating 4.5 2025-08-27 19:36:57
 Status is the same for price_cmf-nothing-phone-1-black-128-gb_MOBHYBQTSE9EKVBT.txt price @ 17999 and rating 4.4 2025-08-27 19:37:04
+Status is the same for price_cmf-nothing-phone-2-pro-black-256-gb_MOBHAUHAY7BY7PT5.txt price @ 20999 and rating 4.4 2025-08-27 19:37:12
+Status is the same for price_cmf-nothing-phone-2-pro-light-green-128-gb_MOBHAUHADASAEX2G.txt price @ 18999 and rating 4.4 2025-08-27 19:37:21
