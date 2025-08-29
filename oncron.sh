@@ -1,6 +1,10 @@
 echo "started at `date`"
+
 docker exec flipkart sh /home/manish/puppeteer-scraper/flipkart_urls/products/executeshfiles.sh
-#docker exec flipkart sh /home/manish/puppeteer-scraper/flipkart_urls/pushgit.sh
+echo "file pricing done, passing to git push"
+
+docker exec flipkart sh /home/manish/puppeteer-scraper/flipkart_urls/pushgit.sh
+echo "file pushing done"
 #cd /workspaces/fkalert
 #pwd
 #whoami
