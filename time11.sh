@@ -1,7 +1,7 @@
 current_hour=$(date +%H)
 
-if [ "$current_hour" -eq 5 -o "$current_hour" -eq 17 ]; then
-echo "Taking backup...at 11"
+if [ "$current_hour" -eq 15 -o "$current_hour" -eq 23 ]; then
+echo "Taking backup...at 3PM or 11PM"
 cd /home/manish/puppeteer-scraper/flipkart_urls
 sh backuptak1.sh
     # Your backup commands here
