@@ -5,7 +5,9 @@ echo "file pricing done, passing to git push"
 
 docker exec flipkart sh /home/manish/puppeteer-scraper/flipkart_urls/pushgit.sh
 echo ""
-echo "file pushing done, exiting from codespace, moving to localsystem docker"
+echo "file pushing done, taking backup if it  11am or 11pm"
+docker exec flipkart sh /home/manish/puppeteer-scraper/flipkart_urls/time11.sh
+echo "taking exit now from codespace"
 #cd /workspaces/fkalert
 #pwd
 #whoami
