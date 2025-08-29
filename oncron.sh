@@ -4,7 +4,8 @@ docker exec flipkart sh /home/manish/puppeteer-scraper/flipkart_urls/products/ex
 echo "file pricing done, passing to git push"
 
 docker exec flipkart sh /home/manish/puppeteer-scraper/flipkart_urls/pushgit.sh
-echo "file pushing done"
+echo ""
+echo "file pushing done, exiting from codespace, moving to localsystem docker"
 #cd /workspaces/fkalert
 #pwd
 #whoami
