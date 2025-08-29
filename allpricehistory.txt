@@ -706,3 +706,6 @@ price_urbn-10000-mah-22-5-w-power-bank_PWBHBCHYXH7ZTXHH.txt, 2025-08-27 18:44:56
 price_cmf-nothing-65-w-gan-3-port-mobile-charger_ACCGPU7G7SSEYCGS.txt, 2025-08-27 19:07:43, 2669 4.5
 price_mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPG7QVXTXGX9FSB.txt, 2025-08-27 19:16:07, 476 4.1
 price_mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPGYCZY2GVN8PTD.txt, 2025-08-27 19:35:51, 489 4.1
+price_portronics-1-10w-tws-portable-type-c-charging-10-w-bluetooth-speaker_ACCG43UYES5YAHMJ.txt, 2025-08-29 06:21:06, 849 4.3
+price_tresemme-hairfall-defense-keratin-fillers-shampoo_SMPFC62BNCVZHZER.txt, 2025-08-29 06:22:15, 587 4.4
+price_tresemme-keratin-smooth-shampoo_SMPFC62BFAN9MYGJ.txt, 2025-08-29 06:22:26, 562 4.4
