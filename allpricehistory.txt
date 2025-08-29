@@ -709,3 +709,7 @@ price_mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cov
 price_portronics-1-10w-tws-portable-type-c-charging-10-w-bluetooth-speaker_ACCG43UYES5YAHMJ.txt, 2025-08-29 06:21:06, 849 4.3
 price_tresemme-hairfall-defense-keratin-fillers-shampoo_SMPFC62BNCVZHZER.txt, 2025-08-29 06:22:15, 587 4.4
 price_tresemme-keratin-smooth-shampoo_SMPFC62BFAN9MYGJ.txt, 2025-08-29 06:22:26, 562 4.4
+price_asian-delta-20-grey-sports-casual-walking-gym-men_SHOGCU8EGQPUXS77.txt, 2025-08-29 07:54:17, 992 4.1
+price_action-athleo-atg-496-light-weight-comfortable-trendy-running-breathable-gym-running-shoes-men_SHOGAFP4E4GMAPMH.txt, 2025-08-29 07:54:37, 828 4.1
+price_campus-running-shoes-men_SHOGHRFBGWCTMGSY.txt, 2025-08-29 07:55:00, 1229 4.2
+price_go-ride-focus-running-shoes-men_SHOGHEXJJHNXRFAP.txt, 2025-08-29 07:55:23, 998 4.1

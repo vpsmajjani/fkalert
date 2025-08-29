@@ -9778,3 +9778,7 @@ Status is the same for price_urbn-10000-mah-22-5-w-power-bank_PWBHBCHYXH7ZTXHH.t
 Status is the same for price_urbn-20-w-gan-3-wall-charger-mobile_ACCGWKD6TZJF4WGR.txt price @ 499 and rating 4.2 2025-08-29 07:52:27
 Status is the same for price_vivo-t4x-5g-pronto-purple-256-gb_MOBH9JUS4GGGPJHJ.txt price @ 16999 and rating 4.4 2025-08-29 07:52:34
 Status is the same for price_wakefit-solatio-fabric-3-seater-sofa_SOFGJVQY5RXF5HCA.txt price @ 14039 and rating 4.4 2025-08-29 07:52:42
+Initial price recorded for price_asian-delta-20-grey-sports-casual-walking-gym-men_SHOGCU8EGQPUXS77.txt: 992 on 2025-08-29 07:54:17
+Initial price recorded for price_action-athleo-atg-496-light-weight-comfortable-trendy-running-breathable-gym-running-shoes-men_SHOGAFP4E4GMAPMH.txt: 828 on 2025-08-29 07:54:37
+Initial price recorded for price_campus-running-shoes-men_SHOGHRFBGWCTMGSY.txt: 1229 on 2025-08-29 07:55:00
+Initial price recorded for price_go-ride-focus-running-shoes-men_SHOGHEXJJHNXRFAP.txt: 998 on 2025-08-29 07:55:23

@@ -532,3 +532,11 @@ cd /home/manish/puppeteer-scraper/flipkart_urls/products/mattress-protector-fitt
 sh /home/manish/puppeteer-scraper/flipkart_urls/products/mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPG7QVXTXGX9FSB/mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPG7QVXTXGX9FSB.sh
 cd /home/manish/puppeteer-scraper/flipkart_urls/products/mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPGYCZY2GVN8PTD/
 sh /home/manish/puppeteer-scraper/flipkart_urls/products/mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPGYCZY2GVN8PTD/mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPGYCZY2GVN8PTD.sh
+cd /home/manish/puppeteer-scraper/flipkart_urls/products/asian-delta-20-grey-sports-casual-walking-gym-men_SHOGCU8EGQPUXS77/
+sh /home/manish/puppeteer-scraper/flipkart_urls/products/asian-delta-20-grey-sports-casual-walking-gym-men_SHOGCU8EGQPUXS77/asian-delta-20-grey-sports-casual-walking-gym-men_SHOGCU8EGQPUXS77.sh
+cd /home/manish/puppeteer-scraper/flipkart_urls/products/action-athleo-atg-496-light-weight-comfortable-trendy-running-breathable-gym-running-shoes-men_SHOGAFP4E4GMAPMH/
+sh /home/manish/puppeteer-scraper/flipkart_urls/products/action-athleo-atg-496-light-weight-comfortable-trendy-running-breathable-gym-running-shoes-men_SHOGAFP4E4GMAPMH/action-athleo-atg-496-light-weight-comfortable-trendy-running-breathable-gym-running-shoes-men_SHOGAFP4E4GMAPMH.sh
+cd /home/manish/puppeteer-scraper/flipkart_urls/products/campus-running-shoes-men_SHOGHRFBGWCTMGSY/
+sh /home/manish/puppeteer-scraper/flipkart_urls/products/campus-running-shoes-men_SHOGHRFBGWCTMGSY/campus-running-shoes-men_SHOGHRFBGWCTMGSY.sh
+cd /home/manish/puppeteer-scraper/flipkart_urls/products/go-ride-focus-running-shoes-men_SHOGHEXJJHNXRFAP/
+sh /home/manish/puppeteer-scraper/flipkart_urls/products/go-ride-focus-running-shoes-men_SHOGHEXJJHNXRFAP/go-ride-focus-running-shoes-men_SHOGHEXJJHNXRFAP.sh
