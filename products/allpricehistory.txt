@@ -811,3 +811,5 @@ price_asian-delta-20-grey-sports-casual-walking-gym-men_SHOGCU8EGQPUXS77.txt, 20
 price_action-athleo-atg-496-light-weight-comfortable-trendy-running-breathable-gym-running-shoes-men_SHOGAFP4E4GMAPMH.txt, 2025-08-29 07:54:37, 828 4.1
 price_campus-running-shoes-men_SHOGHRFBGWCTMGSY.txt, 2025-08-29 07:55:00, 1229 4.2
 price_go-ride-focus-running-shoes-men_SHOGHEXJJHNXRFAP.txt, 2025-08-29 07:55:23, 998 4.1
+price_mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPG7QVXTXGX9FSB.txt, 2025-08-29 16:04:51, 495 4.1
+price_mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPG7QVYRNVEHHV5.txt, 2025-08-29 16:05:03, 495 4.1

@@ -7000,3 +7000,8 @@ Price changed! 2025-08-29 06:22:26 530 to 562 for price_tresemme-keratin-smooth-
 740
 740
 828
+Price changed! 2025-08-29 16:04:51 476 to 495 for price_mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPG7QVXTXGX9FSB.txt https://www.flipkart.com/mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover/p/itm6b3245b7ea581?pid=MTPG7QVXTXGX9FSB and rating 4.1 and lowest was 476, here is list 476
+495
+Price changed! 2025-08-29 16:05:03 475 to 495 for price_mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover_MTPG7QVYRNVEHHV5.txt https://www.flipkart.com/mattress-protector-fitted-queen-size-breathable-stretchable-waterproof-cover/p/itm01f5350969c0a?pid=MTPG7QVYRNVEHHV5 and rating 4.1 and lowest was 473, here is list 473
+475
+495
