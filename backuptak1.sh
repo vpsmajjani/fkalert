@@ -14,4 +14,4 @@ sudo tar --exclude='./node_modules' \
 cd /home/manish/puppeteer-scraper/flipkart_urls
 git add .
 git commit -m "commited after taking backup"
-git push origin backup
+git push
