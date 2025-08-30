@@ -8,8 +8,6 @@ docker exec flipkart sh /home/manish/puppeteer-scraper/flipkart_urls/pushgit.sh
 echo ""
 echo "file pushing done, taking backup if it  3PM or 11PM"
 docker exec flipkart sh /home/manish/puppeteer-scraper/flipkart_urls/time11.sh
-echo "uploading to meag, flipkart@kkod.shop"
-docker exec  flipkart  sh /home/manish/puppeteer-scraper/flipkart_urls/megapush.sh
 echo "taking exit now from codespace"
 
 #cd /workspaces/fkalert

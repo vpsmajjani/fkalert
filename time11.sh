@@ -4,6 +4,7 @@ if [ "$current_hour" -eq 15 -o "$current_hour" -eq 23 ]; then
 echo "Taking backup...at 3PM or 11PM"
 cd /home/manish/puppeteer-scraper/flipkart_urls
 sh backuptak1.sh
+sh megapush.sh
     # Your backup commands here
 echo "successfully backup taken in tar at `date`"
 else
